@@ -2,11 +2,11 @@
     "rewrites": [
         {
             "source": "/",
-            "destination": "https://ipfs.io/ipfs/ipfs/bafybeid5fofz44a4cw4ak6lsovzmzp5vuong5z3fvfmc4afzkbfjov22fy/templates/index.html"
+            "destination": "https://maroon-magic-swordtail-238.mypinata.cloud/ipfs/bafybeigq6awobe6obbnfsx4u5zgbjfasoixdbn5me25oqdxolwuk5tupja/templates/index.html"
         },
         {
             "source": "/(.*)",
-            "destination": "https://ipfs.io/ipfs/bafybeid5fofz44a4cw4ak6lsovzmzp5vuong5z3fvfmc4afzkbfjov22fy/$1"
+            "destination": "https://maroon-magic-swordtail-238.mypinata.cloud/ipfs/bafybeigq6awobe6obbnfsx4u5zgbjfasoixdbn5me25oqdxolwuk5tupja/$1"
         }
     ],
     "headers": [

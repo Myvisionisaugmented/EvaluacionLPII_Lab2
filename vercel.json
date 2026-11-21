@@ -2,7 +2,7 @@
     "rewrites": [
         {
             "source": "/",
-            "destination": "https://maroon-magic-swordtail-238.mypinata.cloud/ipfs/bafybeid5fofz44a4cw4ak6lsovzmzp5vuong5z3fvfmc4afzkbfjov22fy/index.html"
+            "destination": "https://maroon-magic-swordtail-238.mypinata.cloud/ipfs/bafybeid5fofz44a4cw4ak6lsovzmzp5vuong5z3fvfmc4afzkbfjov22fy/templates/index.html"
         },
         {
             "source": "/(.*)",

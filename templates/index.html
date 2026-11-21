@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Catálogo de Productos - LPII</title>
+  <style>
+    :root {
+      --bg: #0f172a;
+      --card: #1e293b;
+      --border: #334155;
+      --primary: #3b82f6;
+      --primary-hover: #2563eb;
+      --accent: #10b981;
+      --text: #f8fafc;
+      --muted: #94a3b8;
+    }
+    * { box-sizing: border-box; }
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      max-width: 960px;
+      margin: 30px auto;
+      padding: 0 16px;
+      background: var(--bg);
+      color: var(--text);
+    }
+    h1 { margin-bottom: 6px; }
+    .subtitle { color: var(--muted); margin-top: 0; margin-bottom: 24px; }
+    
+    .panel {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 18px;
+      margin-bottom: 20px;
+    }
+    .panel h2 { margin-top: 0; font-size: 1.1rem; color: #e2e8f0; }
+
+    .controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+    }
+    button {
+      background: var(--primary);
+      color: white;
+      border: none;
+      padding: 10px 16px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-weight: 500;
+      transition: background 0.2s;
+    }
+    button:hover { background: var(--primary-hover); }
+    button.secondary { background: #475569; }
+    button.secondary:hover { background: #334155; }
+    button.accent { background: var(--accent); color: #064e3b; font-weight: 600; }
+    button.accent:hover { background: #059669; color: white; }
+
+    input[type="number"] {
+      padding: 10px 12px;
+      border-radius: 6px;
+      border: 1px solid var(--border);
+      background: var(--bg);
+      color: var(--text);
+      width: 160px;
+    }
+
+    .alert {
+      margin-top: 12px;
+      padding: 12px;
+      border-radius: 6px;
+      display: none;
+    }
+    .alert.success { display: block; background: rgba(16, 185, 129, 0.15); border: 1px solid #10b981; color: #6ee7b7; }
+    .alert.error { display: block; background: rgba(239, 68, 68, 0.15); border: 1px solid #ef4444; color: #fca5a5; }
+
+    .benchmark-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 12px;
+      margin-top: 14px;
+    }
+    .stat-box {
+      background: var(--bg);
+      padding: 14px;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+    }
+    .stat-label { font-size: 0.85rem; color: var(--muted); }
+    .stat-value { font-size: 1.4rem; font-weight: 700; margin-top: 4px; }
+
+    .table-wrapper { overflow-x: auto; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: var(--card);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    th, td {
+      padding: 12px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+    }
+    th { background: #0f172a; color: var(--muted); font-size: 0.85rem; text-transform: uppercase; }
+    tr:hover td { background: rgba(255, 255, 255, 0.03); }
+    .highlight td { background: rgba(59, 130, 246, 0.25) !important; }
+  </style>
+</head>
+<body>
+
+  <h1>Catálogo Dinámico de Productos</h1>
+  <p class="subtitle">Arquitectura Desacoplada: Flask API + Fetch JS + Quicksort & Búsqueda Binaria</p>
+
+  <!-- Panel 1: Búsqueda Binaria -->
+  <div class="panel">
+    <h2>🔍 Búsqueda Binaria por ID (O(log n))</h2>
+    <div class="controls">
+      <input type="number" id="input-id" placeholder="Ej: 105" min="1">
+      <button onclick="buscarPorId()">Buscar Producto</button>
+      <button class="secondary" onclick="cargar('id', 'asc')">Ver Ordenado por ID</button>
+    </div>
+    <div id="resultado-busqueda" class="alert"></div>
+  </div>
+
+  <!-- Panel 2: Benchmark -->
+  <div class="panel">
+    <h2>⚡ Benchmark: Quicksort vs. Burbuja (1.000 elementos)</h2>
+    <div class="controls">
+      <button class="accent" onclick="ejecutarBenchmark()">Ejecutar Prueba de Rendimiento</button>
+    </div>
+    <div id="benchmark-resultados" class="benchmark-grid" style="display: none;">
+      <div class="stat-box">
+        <div class="stat-label">Quicksort (O(n log n))</div>
+        <div class="stat-value" id="qs-time" style="color: #34d399;">-</div>
+      </div>
+      <div class="stat-box">
+        <div class="stat-label">Ordenamiento Burbuja (O(n²))</div>
+        <div class="stat-value" id="bs-time" style="color: #f87171;">-</div>
+      </div>
+      <div class="stat-box">
+        <div class="stat-label">Diferencia de Rendimiento</div>
+        <div class="stat-value" id="factor-mejora" style="color: #60a5fa;">-</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Panel 3: Ordenamiento y Tabla -->
+  <div class="panel">
+    <h2>📦 Listado de Productos (Quicksort)</h2>
+    <div class="controls" style="margin-bottom: 16px;">
+      <button onclick="cargar('precio', 'asc')">Menor Precio</button>
+      <button onclick="cargar('precio', 'desc')">Mayor Precio</button>
+      <button onclick="cargar('nombre', 'asc')">Nombre (A-Z)</button>
+      <button class="secondary" onclick="cargar('id', 'asc')">ID Ascendente</button>
+    </div>
+
+    <div class="table-wrapper">
+      <table id="tabla">
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Producto</th>
+            <th>Categoría</th>
+            <th>Precio</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+
+  <script>
+    // 1. Cargar y ordenar catálogo con Quicksort
+    async function cargar(campo, orden, highlightId = null) {
+      const res = await fetch(`/api/productos?sort_by=${campo}&order=${orden}`);
+      const data = await res.json();
+      const tbody = document.querySelector('#tabla tbody');
+      
+      tbody.innerHTML = data.map(p => `
+        <tr class="${p.id === highlightId ? 'highlight' : ''}">
+          <td><strong>#${p.id}</strong></td>
+          <td>${p.nombre}</td>
+          <td>${p.categoria || 'General'}</td>
+          <td>$${Number(p.precio).toFixed(2)}</td>
+        </tr>
+      `).join('');
+    }
+
+    // 2. Búsqueda Binaria en el Backend
+    async function buscarPorId() {
+      const id = document.getElementById('input-id').value;
+      const caja = document.getElementById('resultado-busqueda');
+
+      if (!id) {
+        caja.className = 'alert error';
+        caja.textContent = 'Por favor, ingresa un número de ID válido.';
+        return;
+      }
+
+      const res = await fetch(`/api/productos/buscar?id=${id}`);
+      const data = await res.json();
+
+      if (res.ok && data.encontrado) {
+        const p = data.producto;
+        caja.className = 'alert success';
+        caja.innerHTML = `✅ <strong>Encontrado en ${data.pasos_busqueda} paso(s):</strong> [ID #${p.id}] ${p.nombre} — <strong>$${p.precio.toFixed(2)}</strong>`;
+        // Ordenar por ID y resaltar el producto encontrado
+        cargar('id', 'asc', p.id);
+      } else {
+        caja.className = 'alert error';
+        caja.textContent = `❌ ${data.mensaje || data.error} (Iteraciones realizadas: ${data.pasos_busqueda || 0})`;
+      }
+    }
+
+    // 3. Benchmark de 1000 elementos
+    async function ejecutarBenchmark() {
+      const res = await fetch('/api/benchmark');
+      const data = await res.json();
+
+      document.getElementById('benchmark-resultados').style.display = 'grid';
+      document.getElementById('qs-time').textContent = `${data.quicksort_ms} ms`;
+      document.getElementById('bs-time').textContent = `${data.burbuja_ms} ms`;
+      document.getElementById('factor-mejora').textContent = data.factor_mejora;
+    }
+
+    // Carga inicial al abrir la página
+    cargar('precio', 'asc');
+  </script>
+
+</body>
+</html>

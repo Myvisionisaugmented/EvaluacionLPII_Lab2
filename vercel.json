@@ -1,0 +1,28 @@
+{
+    "name": "app_restapi",
+    "rewrites": [
+        {
+            "source": "/",
+            "destination": "https://maroon-magic-swordtail-238.mypinata.cloud/ipfs/bafybeid5fofz44a4cw4ak6lsovzmzp5vuong5z3fvfmc4afzkbfjov22fy/index.html&quot;"
+        },
+        {
+            "source": "/(.*)",
+            "destination": "https://maroon-magic-swordtail-238.mypinata.cloud/ipfs/bafybeid5fofz44a4cw4ak6lsovzmzp5vuong5z3fvfmc4afzkbfjov22fy/index.html&quot;"
+        }
+    ],
+    "headers": [
+        {
+            "source": "/(.*)",
+            "headers": [
+                {
+                    "key": "Cache-control",
+                    "value": "public, max-age=3600, s-maxage=86400"
+                },
+                {
+                    "key": "X-Content-Type-Options",
+                    "value": "nosniff"
+                }
+            ]
+        }
+    ]
+}

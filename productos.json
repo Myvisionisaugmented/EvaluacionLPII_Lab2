@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 777,
+    "nombre": "Alfombrilla XXL HyperX Studio #777",
+    "precio": 619.87,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 508,
+    "nombre": "Monitor Ultrawide 34\" Dell Elite #508",
+    "precio": 1037.78,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 896,
+    "nombre": "Interfaz de Audio LogiTech RGB #896",
+    "precio": 711.23,
+    "categoria": "Audio"
+  },
+  {
+    "id": 923,
+    "nombre": "Mini PC Corsair RGB #923",
+    "precio": 60.57,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 34,
+    "nombre": "Fuente de Poder 750W Razer Ultra #34",
+    "precio": 440.7,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 484,
+    "nombre": "Dock Thunderbolt Sony Lite #484",
+    "precio": 432.68,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 86,
+    "nombre": "Alfombrilla XXL Samsung Plus #86",
+    "precio": 1291.09,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 751,
+    "nombre": "Monitor Portátil 15\" LogiTech RGB #751",
+    "precio": 117.92,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 355,
+    "nombre": "Interfaz de Audio Asus Lite #355",
+    "precio": 359.33,
+    "categoria": "Audio"
+  },
+  {
+    "id": 524,
+    "nombre": "Chromebook HyperX Elite #524",
+    "precio": 405.66,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 185,
+    "nombre": "Disco SSD NVMe 1TB Dell X #185",
+    "precio": 1189.38,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 810,
+    "nombre": "Cámara Web 4K HyperX Max #810",
+    "precio": 889.61,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 419,
+    "nombre": "Mouse Gamer MSI X #419",
+    "precio": 1208.21,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 616,
+    "nombre": "Monitor Ultrawide 34\" HyperX X #616",
+    "precio": 306.35,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 683,
+    "nombre": "Barra de Sonido Asus X #683",
+    "precio": 182.79,
+    "categoria": "Audio"
+  },
+  {
+    "id": 502,
+    "nombre": "Workstation HyperX Studio #502",
+    "precio": 346.52,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 761,
+    "nombre": "Tarjeta Gráfica MSI Lite #761",
+    "precio": 233.7,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 50,
+    "nombre": "Soporte Laptop Sony Elite #50",
+    "precio": 407.26,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 733,
+    "nombre": "Mouse Gamer Sony Studio #733",
+    "precio": 223.65,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 337,
+    "nombre": "Monitor IPS 24\" LogiTech Plus #337",
+    "precio": 100.74,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 451,
+    "nombre": "Micrófono Condensador Asus Elite #451",
+    "precio": 1191.43,
+    "categoria": "Audio"
+  },
+  {
+    "id": 791,
+    "nombre": "Workstation Samsung Plus #791",
+    "precio": 897.43,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 351,
+    "nombre": "Fuente de Poder 750W Dell Studio #351",
+    "precio": 1238.47,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 468,
+    "nombre": "Cámara Web 4K Sony Studio #468",
+    "precio": 1382.73,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 623,
+    "nombre": "Alfombrilla XXL Asus X #623",
+    "precio": 665.46,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 477,
+    "nombre": "Monitor 4K 32\" Razer RGB #477",
+    "precio": 709.42,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 615,
+    "nombre": "Micrófono Condensador HyperX Max #615",
+    "precio": 464.49,
+    "categoria": "Audio"
+  },
+  {
+    "id": 555,
+    "nombre": "Workstation Corsair Ultra #555",
+    "precio": 610.93,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 366,
+    "nombre": "Placa Madre ATX Razer Pro #366",
+    "precio": 417.1,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 771,
+    "nombre": "Hub USB-C 8 en 1 Corsair V2 #771",
+    "precio": 815.49,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 631,
+    "nombre": "Mouse Gamer Asus Elite #631",
+    "precio": 663.39,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 941,
+    "nombre": "Monitor 4K 32\" Samsung Plus #941",
+    "precio": 901.88,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 798,
+    "nombre": "Audífonos Studio Razer Plus #798",
+    "precio": 1335.46,
+    "categoria": "Audio"
+  },
+  {
+    "id": 497,
+    "nombre": "Laptop Ultrabook Samsung Ultra #497",
+    "precio": 1104.99,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 925,
+    "nombre": "Placa Madre ATX MSI Studio #925",
+    "precio": 910.33,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 370,
+    "nombre": "Hub USB-C 8 en 1 Dell X #370",
+    "precio": 50.49,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 597,
+    "nombre": "Control Inalámbrico Sony X #597",
+    "precio": 352.64,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 721,
+    "nombre": "Monitor Portátil 15\" LogiTech RGB #721",
+    "precio": 1015.36,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 54,
+    "nombre": "Barra de Sonido LogiTech V2 #54",
+    "precio": 1292.45,
+    "categoria": "Audio"
+  },
+  {
+    "id": 427,
+    "nombre": "Mini PC LogiTech Plus #427",
+    "precio": 885.64,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 57,
+    "nombre": "Tarjeta Gráfica HyperX Studio #57",
+    "precio": 42.87,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 265,
+    "nombre": "Cámara Web 4K Razer V2 #265",
+    "precio": 1149.96,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 773,
+    "nombre": "Teclado Mecánico HyperX Lite #773",
+    "precio": 1234.27,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 186,
+    "nombre": "Monitor Ultrawide 34\" HyperX X #186",
+    "precio": 869.46,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 467,
+    "nombre": "Micrófono Condensador Dell Lite #467",
+    "precio": 1147.51,
+    "categoria": "Audio"
+  },
+  {
+    "id": 790,
+    "nombre": "Laptop Ultrabook Dell X #790",
+    "precio": 272.68,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 175,
+    "nombre": "Memoria RAM 32GB HyperX Max #175",
+    "precio": 784.22,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 151,
+    "nombre": "Lámpara de Escritorio LogiTech RGB #151",
+    "precio": 670.04,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 742,
+    "nombre": "Teclado Mecánico Samsung Ultra #742",
+    "precio": 425.9,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 114,
+    "nombre": "Monitor Portátil 15\" HyperX Elite #114",
+    "precio": 1495.45,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 429,
+    "nombre": "Parlantes Bluetooth Sony Lite #429",
+    "precio": 660.6,
+    "categoria": "Audio"
+  },
+  {
+    "id": 966,
+    "nombre": "Workstation MSI Lite #966",
+    "precio": 1223.6,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 19,
+    "nombre": "Memoria RAM 32GB MSI X #19",
+    "precio": 1453.95,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 190,
+    "nombre": "Lámpara de Escritorio Asus Lite #190",
+    "precio": 711.38,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 415,
+    "nombre": "Panel Stream MSI Studio #415",
+    "precio": 619.62,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 590,
+    "nombre": "Monitor Curvo 27\" Dell X #590",
+    "precio": 489.73,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 667,
+    "nombre": "Interfaz de Audio Sony X #667",
+    "precio": 167.64,
+    "categoria": "Audio"
+  },
+  {
+    "id": 764,
+    "nombre": "Mini PC MSI X #764",
+    "precio": 251.31,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 222,
+    "nombre": "Disco SSD NVMe 1TB Samsung Ultra #222",
+    "precio": 624.53,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 587,
+    "nombre": "Cámara Web 4K LogiTech Plus #587",
+    "precio": 749.26,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 582,
+    "nombre": "Alfombrilla XXL Razer RGB #582",
+    "precio": 997.92,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 300,
+    "nombre": "Monitor IPS 24\" HyperX Max #300",
+    "precio": 607.87,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 639,
+    "nombre": "Micrófono Condensador MSI X #639",
+    "precio": 1143.62,
+    "categoria": "Audio"
+  },
+  {
+    "id": 387,
+    "nombre": "Laptop Ultrabook Samsung Ultra #387",
+    "precio": 66.61,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 365,
+    "nombre": "Placa Madre ATX MSI Studio #365",
+    "precio": 143.03,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 880,
+    "nombre": "Hub USB-C 8 en 1 Dell X #880",
+    "precio": 387.57,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 335,
+    "nombre": "Mouse Gamer HyperX Max #335",
+    "precio": 184.49,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 17,
+    "nombre": "Monitor Ultrawide 34\" Keychron V2 #17",
+    "precio": 1161.55,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 203,
+    "nombre": "Micrófono Condensador Sony Studio #203",
+    "precio": 1298.99,
+    "categoria": "Audio"
+  },
+  {
+    "id": 2,
+    "nombre": "Mini PC Dell Lite #2",
+    "precio": 1239.49,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 39,
+    "nombre": "Placa Madre ATX Sony Lite #39",
+    "precio": 13.71,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 291,
+    "nombre": "Soporte Laptop Samsung Plus #291",
+    "precio": 1305.62,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 494,
+    "nombre": "Mouse Gamer Samsung Pro #494",
+    "precio": 699.42,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 248,
+    "nombre": "Monitor IPS 24\" Sony Studio #248",
+    "precio": 92.66,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 507,
+    "nombre": "Micrófono Condensador Dell Lite #507",
+    "precio": 783.44,
+    "categoria": "Audio"
+  },
+  {
+    "id": 897,
+    "nombre": "Workstation Razer RGB #897",
+    "precio": 938.48,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 714,
+    "nombre": "Disco SSD NVMe 1TB Keychron RGB #714",
+    "precio": 753.76,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 892,
+    "nombre": "Dock Thunderbolt Asus Max #892",
+    "precio": 669.76,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 77,
+    "nombre": "Teclado Mecánico MSI Elite #77",
+    "precio": 88.8,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 912,
+    "nombre": "Monitor IPS 24\" Dell Lite #912",
+    "precio": 409.38,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 793,
+    "nombre": "Interfaz de Audio MSI Max #793",
+    "precio": 206.95,
+    "categoria": "Audio"
+  },
+  {
+    "id": 509,
+    "nombre": "Laptop Ultrabook Keychron RGB #509",
+    "precio": 440.59,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 178,
+    "nombre": "Disco SSD NVMe 1TB Razer Plus #178",
+    "precio": 1322.7,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 843,
+    "nombre": "Cámara Web 4K Corsair RGB #843",
+    "precio": 733.25,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 201,
+    "nombre": "Teclado Mecánico Sony Max #201",
+    "precio": 54.96,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 766,
+    "nombre": "Monitor IPS 24\" Asus Elite #766",
+    "precio": 949.47,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 910,
+    "nombre": "Micrófono Condensador Razer V2 #910",
+    "precio": 1201.38,
+    "categoria": "Audio"
+  },
+  {
+    "id": 294,
+    "nombre": "Mini PC MSI X #294",
+    "precio": 1068.16,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 539,
+    "nombre": "Tarjeta Gráfica Dell Max #539",
+    "precio": 474.4,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 25,
+    "nombre": "Dock Thunderbolt Samsung RGB #25",
+    "precio": 32.35,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 695,
+    "nombre": "Teclado Mecánico Dell X #695",
+    "precio": 619.09,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 211,
+    "nombre": "Monitor 4K 32\" Samsung Plus #211",
+    "precio": 346.35,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 425,
+    "nombre": "Barra de Sonido Sony Elite #425",
+    "precio": 1264.01,
+    "categoria": "Audio"
+  },
+  {
+    "id": 529,
+    "nombre": "Workstation LogiTech V2 #529",
+    "precio": 180.83,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 35,
+    "nombre": "Placa Madre ATX MSI Studio #35",
+    "precio": 1421.23,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 929,
+    "nombre": "Dock Thunderbolt Corsair Plus #929",
+    "precio": 975.79,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 399,
+    "nombre": "Teclado Mecánico Asus Studio #399",
+    "precio": 241.11,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 608,
+    "nombre": "Monitor Curvo 27\" HyperX Lite #608",
+    "precio": 1399.79,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 299,
+    "nombre": "Barra de Sonido Dell Max #299",
+    "precio": 446.29,
+    "categoria": "Audio"
+  },
+  {
+    "id": 849,
+    "nombre": "Chromebook Razer Ultra #849",
+    "precio": 1061.65,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 669,
+    "nombre": "Placa Madre ATX Sony Lite #669",
+    "precio": 630.25,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 283,
+    "nombre": "Dock Thunderbolt LogiTech Ultra #283",
+    "precio": 729.96,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 940,
+    "nombre": "Alfombrilla XXL Corsair Ultra #940",
+    "precio": 714.66,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 945,
+    "nombre": "Monitor Portátil 15\" Keychron Plus #945",
+    "precio": 691.7,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 607,
+    "nombre": "Micrófono Condensador Dell Lite #607",
+    "precio": 227.23,
+    "categoria": "Audio"
+  },
+  {
+    "id": 960,
+    "nombre": "Laptop Ultrabook Dell X #960",
+    "precio": 295.63,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 935,
+    "nombre": "Memoria RAM 32GB HyperX Max #935",
+    "precio": 903.87,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 732,
+    "nombre": "Dock Thunderbolt Asus Max #732",
+    "precio": 1122.48,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 288,
+    "nombre": "Mouse Gamer Corsair RGB #288",
+    "precio": 215.12,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 528,
+    "nombre": "Monitor 4K 32\" Asus X #528",
+    "precio": 115.88,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 808,
+    "nombre": "Interfaz de Audio Samsung V2 #808",
+    "precio": 1161.74,
+    "categoria": "Audio"
+  },
+  {
+    "id": 230,
+    "nombre": "Mini PC HyperX Max #230",
+    "precio": 1283.37,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 437,
+    "nombre": "Placa Madre ATX Asus Max #437",
+    "precio": 517.73,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 29,
+    "nombre": "Soporte Laptop LogiTech V2 #29",
+    "precio": 1184.12,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 375,
+    "nombre": "Panel Stream MSI Studio #375",
+    "precio": 409.55,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 820,
+    "nombre": "Monitor Curvo 27\" Dell X #820",
+    "precio": 15.82,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 317,
+    "nombre": "Interfaz de Audio Sony X #317",
+    "precio": 1092.36,
+    "categoria": "Audio"
+  },
+  {
+    "id": 561,
+    "nombre": "Chromebook LogiTech RGB #561",
+    "precio": 1258.16,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 242,
+    "nombre": "Disco SSD NVMe 1TB Samsung Ultra #242",
+    "precio": 874.93,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 150,
+    "nombre": "Dock Thunderbolt MSI Studio #150",
+    "precio": 993.99,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 517,
+    "nombre": "Alfombrilla XXL HyperX Studio #517",
+    "precio": 1299.51,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 418,
+    "nombre": "Monitor Ultrawide 34\" Dell Elite #418",
+    "precio": 676.46,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 661,
+    "nombre": "Interfaz de Audio Dell Studio #661",
+    "precio": 732.7,
+    "categoria": "Audio"
+  },
+  {
+    "id": 199,
+    "nombre": "Workstation LogiTech V2 #199",
+    "precio": 506.67,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 586,
+    "nombre": "Disco SSD NVMe 1TB Corsair V2 #586",
+    "precio": 1147.15,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 326,
+    "nombre": "Cámara Web 4K Asus Elite #326",
+    "precio": 573.29,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 824,
+    "nombre": "Teclado Mecánico Keychron RGB #824",
+    "precio": 1400.08,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 703,
+    "nombre": "Monitor Curvo 27\" Razer Plus #703",
+    "precio": 1305.97,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 950,
+    "nombre": "Interfaz de Audio Keychron Plus #950",
+    "precio": 1471.39,
+    "categoria": "Audio"
+  },
+  {
+    "id": 516,
+    "nombre": "Laptop Ultrabook Sony Max #516",
+    "precio": 367.34,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 865,
+    "nombre": "Disco SSD NVMe 1TB Dell X #865",
+    "precio": 581.86,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 837,
+    "nombre": "Lámpara de Escritorio Corsair Pro #837",
+    "precio": 1285.75,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 878,
+    "nombre": "Teclado Mecánico Razer Plus #878",
+    "precio": 623.23,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 360,
+    "nombre": "Monitor Portátil 15\" Asus Lite #360",
+    "precio": 485.45,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 595,
+    "nombre": "Parlantes Bluetooth MSI Studio #595",
+    "precio": 715.79,
+    "categoria": "Audio"
+  },
+  {
+    "id": 789,
+    "nombre": "Tablet Pro Corsair Plus #789",
+    "precio": 1371.18,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 189,
+    "nombre": "Disco SSD NVMe 1TB Asus Studio #189",
+    "precio": 579.27,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 67,
+    "nombre": "Dock Thunderbolt Keychron V2 #67",
+    "precio": 1482.76,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 356,
+    "nombre": "Panel Stream Razer Pro #356",
+    "precio": 1191.08,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 800,
+    "nombre": "Monitor Ultrawide 34\" MSI Studio #800",
+    "precio": 982.2,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 903,
+    "nombre": "Interfaz de Audio MSI Max #903",
+    "precio": 238.33,
+    "categoria": "Audio"
+  },
+  {
+    "id": 921,
+    "nombre": "Workstation Samsung Plus #921",
+    "precio": 1447.66,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 943,
+    "nombre": "Disco SSD NVMe 1TB HyperX Lite #943",
+    "precio": 199.85,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 331,
+    "nombre": "Dock Thunderbolt Razer Pro #331",
+    "precio": 1448.45,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 728,
+    "nombre": "Alfombrilla XXL Keychron Pro #728",
+    "precio": 506.01,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 397,
+    "nombre": "Monitor 4K 32\" Razer RGB #397",
+    "precio": 161.34,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 464,
+    "nombre": "Audífonos Studio Keychron RGB #464",
+    "precio": 1269.42,
+    "categoria": "Audio"
+  },
+  {
+    "id": 394,
+    "nombre": "Mini PC MSI X #394",
+    "precio": 160.37,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 312,
+    "nombre": "Disco SSD NVMe 1TB Samsung Ultra #312",
+    "precio": 1366.74,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 681,
+    "nombre": "Hub USB-C 8 en 1 Corsair V2 #681",
+    "precio": 34.84,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 745,
+    "nombre": "Teclado Mecánico Dell X #745",
+    "precio": 226.5,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 922,
+    "nombre": "Monitor Portátil 15\" Sony X #922",
+    "precio": 1307.95,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 462,
+    "nombre": "Parlantes Bluetooth Keychron V2 #462",
+    "precio": 1455.3,
+    "categoria": "Audio"
+  },
+  {
+    "id": 523,
+    "nombre": "Mini PC Corsair RGB #523",
+    "precio": 123.34,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 632,
+    "nombre": "Memoria RAM 32GB LogiTech Plus #632",
+    "precio": 1174.91,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 491,
+    "nombre": "Cámara Web 4K Keychron Ultra #491",
+    "precio": 406.35,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 196,
+    "nombre": "Alfombrilla XXL Samsung Plus #196",
+    "precio": 939.41,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 257,
+    "nombre": "Monitor Ultrawide 34\" Keychron V2 #257",
+    "precio": 603.46,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 694,
+    "nombre": "Barra de Sonido LogiTech V2 #694",
+    "precio": 131.51,
+    "categoria": "Audio"
+  },
+  {
+    "id": 741,
+    "nombre": "Laptop Ultrabook Corsair V2 #741",
+    "precio": 500.91,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 578,
+    "nombre": "Fuente de Poder 750W Samsung V2 #578",
+    "precio": 1015.44,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 158,
+    "nombre": "Dock Thunderbolt Dell Elite #158",
+    "precio": 806.03,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 613,
+    "nombre": "Teclado Mecánico HyperX Lite #613",
+    "precio": 1431.76,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 393,
+    "nombre": "Monitor IPS 24\" Corsair RGB #393",
+    "precio": 944.68,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 970,
+    "nombre": "Parlantes Bluetooth Samsung RGB #970",
+    "precio": 1332.51,
+    "categoria": "Audio"
+  },
+  {
+    "id": 689,
+    "nombre": "Tablet Pro Corsair Plus #689",
+    "precio": 738.07,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 362,
+    "nombre": "Fuente de Poder 750W Corsair Pro #362",
+    "precio": 817.03,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 817,
+    "nombre": "Dock Thunderbolt Keychron V2 #817",
+    "precio": 930.78,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 402,
+    "nombre": "Teclado Mecánico Samsung Ultra #402",
+    "precio": 361.34,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 93,
+    "nombre": "Monitor 4K 32\" Keychron Pro #93",
+    "precio": 1030.39,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 918,
+    "nombre": "Interfaz de Audio Samsung V2 #918",
+    "precio": 439.62,
+    "categoria": "Audio"
+  },
+  {
+    "id": 490,
+    "nombre": "Mini PC HyperX Max #490",
+    "precio": 350.5,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 452,
+    "nombre": "Placa Madre ATX Keychron V2 #452",
+    "precio": 146.48,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 252,
+    "nombre": "Hub USB-C 8 en 1 MSI Elite #252",
+    "precio": 1467.77,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 654,
+    "nombre": "Control Inalámbrico Razer Ultra #654",
+    "precio": 1143.43,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 770,
+    "nombre": "Monitor Curvo 27\" Dell X #770",
+    "precio": 1059.39,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 671,
+    "nombre": "Barra de Sonido MSI Lite #671",
+    "precio": 161.55,
+    "categoria": "Audio"
+  },
+  {
+    "id": 130,
+    "nombre": "Workstation Sony Elite #130",
+    "precio": 259.55,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 638,
+    "nombre": "Memoria RAM 32GB Corsair RGB #638",
+    "precio": 457.61,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 992,
+    "nombre": "Cámara Web 4K Dell Lite #992",
+    "precio": 55.07,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 343,
+    "nombre": "Control Inalámbrico MSI Max #343",
+    "precio": 494.67,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 309,
+    "nombre": "Monitor Curvo 27\" Keychron RGB #309",
+    "precio": 95.51,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 137,
+    "nombre": "Parlantes Bluetooth Asus Max #137",
+    "precio": 545.39,
+    "categoria": "Audio"
+  },
+  {
+    "id": 89,
+    "nombre": "Workstation LogiTech V2 #89",
+    "precio": 652.86,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 328,
+    "nombre": "Tarjeta Gráfica Keychron Pro #328",
+    "precio": 375.37,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 476,
+    "nombre": "Cámara Web 4K Asus Elite #476",
+    "precio": 625.13,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 982,
+    "nombre": "Control Inalámbrico Corsair Pro #982",
+    "precio": 1026.52,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 851,
+    "nombre": "Monitor Portátil 15\" LogiTech RGB #851",
+    "precio": 279.92,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 893,
+    "nombre": "Micrófono Condensador Sony Studio #893",
+    "precio": 272.5,
+    "categoria": "Audio"
+  },
+  {
+    "id": 376,
+    "nombre": "Laptop Ultrabook Sony Max #376",
+    "precio": 918.92,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 179,
+    "nombre": "Placa Madre ATX Sony Lite #179",
+    "precio": 581.23,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 27,
+    "nombre": "Lámpara de Escritorio Corsair Pro #27",
+    "precio": 1028.5,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 350,
+    "nombre": "Alfombrilla XXL Corsair Ultra #350",
+    "precio": 752.53,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 500,
+    "nombre": "Monitor Portátil 15\" Asus Lite #500",
+    "precio": 879.74,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 475,
+    "nombre": "Parlantes Bluetooth MSI Studio #475",
+    "precio": 357.5,
+    "categoria": "Audio"
+  },
+  {
+    "id": 618,
+    "nombre": "Chromebook MSI Max #618",
+    "precio": 961.2,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 698,
+    "nombre": "Placa Madre ATX LogiTech Ultra #698",
+    "precio": 695.84,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 51,
+    "nombre": "Lámpara de Escritorio LogiTech RGB #51",
+    "precio": 1004.26,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 212,
+    "nombre": "Teclado Mecánico Samsung Ultra #212",
+    "precio": 1349.58,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 382,
+    "nombre": "Monitor IPS 24\" Dell Lite #382",
+    "precio": 704.3,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 884,
+    "nombre": "Parlantes Bluetooth Corsair Plus #884",
+    "precio": 440.0,
+    "categoria": "Audio"
+  },
+  {
+    "id": 174,
+    "nombre": "Laptop Ultrabook Asus Studio #174",
+    "precio": 825.34,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 148,
+    "nombre": "Disco SSD NVMe 1TB Razer Plus #148",
+    "precio": 121.91,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 420,
+    "nombre": "Lámpara de Escritorio Asus Lite #420",
+    "precio": 1418.51,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 962,
+    "nombre": "Mouse Gamer LogiTech Plus #962",
+    "precio": 1481.63,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 149,
+    "nombre": "Monitor Ultrawide 34\" Corsair Plus #149",
+    "precio": 457.14,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 976,
+    "nombre": "Barra de Sonido Samsung Plus #976",
+    "precio": 1443.5,
+    "categoria": "Audio"
+  },
+  {
+    "id": 80,
+    "nombre": "Workstation Sony Elite #80",
+    "precio": 1039.19,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 776,
+    "nombre": "Placa Madre ATX Razer Pro #776",
+    "precio": 691.77,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 303,
+    "nombre": "Soporte Laptop Keychron Pro #303",
+    "precio": 461.56,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 996,
+    "nombre": "Mouse Gamer Keychron Ultra #996",
+    "precio": 1499.07,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 526,
+    "nombre": "Monitor 4K 32\" MSI Lite #526",
+    "precio": 1281.76,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 775,
+    "nombre": "Barra de Sonido Sony Elite #775",
+    "precio": 170.7,
+    "categoria": "Audio"
+  },
+  {
+    "id": 232,
+    "nombre": "Laptop Ultrabook MSI Elite #232",
+    "precio": 579.47,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 626,
+    "nombre": "Disco SSD NVMe 1TB Corsair V2 #626",
+    "precio": 546.13,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 801,
+    "nombre": "Cámara Web 4K Keychron Ultra #801",
+    "precio": 452.26,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 562,
+    "nombre": "Control Inalámbrico Corsair Pro #562",
+    "precio": 1052.53,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 510,
+    "nombre": "Monitor 4K 32\" Sony Elite #510",
+    "precio": 44.65,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 841,
+    "nombre": "Parlantes Bluetooth HyperX X #841",
+    "precio": 1247.1,
+    "categoria": "Audio"
+  },
+  {
+    "id": 495,
+    "nombre": "Tablet Pro Samsung RGB #495",
+    "precio": 600.96,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 120,
+    "nombre": "Disco SSD NVMe 1TB LogiTech Pro #120",
+    "precio": 24.05,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 478,
+    "nombre": "Dock Thunderbolt Dell Elite #478",
+    "precio": 1299.22,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 145,
+    "nombre": "Alfombrilla XXL Sony Elite #145",
+    "precio": 1170.13,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 30,
+    "nombre": "Monitor Portátil 15\" Asus Lite #30",
+    "precio": 1460.72,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 911,
+    "nombre": "Audífonos Studio Sony Max #911",
+    "precio": 1367.0,
+    "categoria": "Audio"
+  },
+  {
+    "id": 122,
+    "nombre": "Workstation HyperX Studio #122",
+    "precio": 1120.82,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 606,
+    "nombre": "Tarjeta Gráfica Samsung Plus #606",
+    "precio": 1251.26,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 62,
+    "nombre": "Dock Thunderbolt Asus Max #62",
+    "precio": 1355.57,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 872,
+    "nombre": "Teclado Mecánico Samsung Ultra #872",
+    "precio": 1166.3,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 573,
+    "nombre": "Monitor 4K 32\" Keychron Pro #573",
+    "precio": 354.42,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 6,
+    "nombre": "Micrófono Condensador Keychron Ultra #6",
+    "precio": 1205.27,
+    "categoria": "Audio"
+  },
+  {
+    "id": 927,
+    "nombre": "Chromebook Corsair Pro #927",
+    "precio": 337.88,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 640,
+    "nombre": "Tarjeta Gráfica Corsair Ultra #640",
+    "precio": 294.92,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 440,
+    "nombre": "Lámpara de Escritorio Asus Lite #440",
+    "precio": 384.93,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 730,
+    "nombre": "Panel Stream Samsung RGB #730",
+    "precio": 1136.3,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 194,
+    "nombre": "Monitor Ultrawide 34\" Sony Lite #194",
+    "precio": 1154.0,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 753,
+    "nombre": "Parlantes Bluetooth Dell Elite #753",
+    "precio": 1025.11,
+    "categoria": "Audio"
+  },
+  {
+    "id": 627,
+    "nombre": "Tablet Pro Keychron V2 #627",
+    "precio": 215.53,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 572,
+    "nombre": "Disco SSD NVMe 1TB Samsung Ultra #572",
+    "precio": 156.58,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 18,
+    "nombre": "Soporte Laptop Asus X #18",
+    "precio": 945.66,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 743,
+    "nombre": "Control Inalámbrico MSI Max #743",
+    "precio": 70.66,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 915,
+    "nombre": "Monitor IPS 24\" Razer V2 #915",
+    "precio": 1185.45,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 511,
+    "nombre": "Interfaz de Audio Dell Studio #511",
+    "precio": 61.65,
+    "categoria": "Audio"
+  },
+  {
+    "id": 574,
+    "nombre": "Workstation Dell Max #574",
+    "precio": 554.91,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 139,
+    "nombre": "Fuente de Poder 750W HyperX Elite #139",
+    "precio": 207.54,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 192,
+    "nombre": "Soporte Laptop HyperX Studio #192",
+    "precio": 1365.53,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 5,
+    "nombre": "Mouse Gamer HyperX Max #5",
+    "precio": 498.16,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 444,
+    "nombre": "Monitor IPS 24\" MSI X #444",
+    "precio": 630.27,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 21,
+    "nombre": "Parlantes Bluetooth HyperX X #21",
+    "precio": 310.78,
+    "categoria": "Audio"
+  },
+  {
+    "id": 214,
+    "nombre": "Chromebook HyperX Elite #214",
+    "precio": 1182.33,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 65,
+    "nombre": "Disco SSD NVMe 1TB Dell X #65",
+    "precio": 1316.17,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 412,
+    "nombre": "Lámpara de Escritorio Sony X #412",
+    "precio": 556.4,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 302,
+    "nombre": "Panel Stream Keychron V2 #302",
+    "precio": 758.67,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 334,
+    "nombre": "Monitor 4K 32\" Dell Max #334",
+    "precio": 417.52,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 193,
+    "nombre": "Barra de Sonido Asus X #193",
+    "precio": 256.84,
+    "categoria": "Audio"
+  },
+  {
+    "id": 665,
+    "nombre": "Laptop Ultrabook LogiTech Pro #665",
+    "precio": 1372.1,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 263,
+    "nombre": "Placa Madre ATX Dell Elite #263",
+    "precio": 1416.95,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 648,
+    "nombre": "Hub USB-C 8 en 1 HyperX Lite #648",
+    "precio": 1451.47,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 811,
+    "nombre": "Panel Stream HyperX X #811",
+    "precio": 451.17,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 233,
+    "nombre": "Monitor 4K 32\" Keychron Pro #233",
+    "precio": 1307.15,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 796,
+    "nombre": "Micrófono Condensador Keychron Ultra #796",
+    "precio": 1208.7,
+    "categoria": "Audio"
+  },
+  {
+    "id": 682,
+    "nombre": "Chromebook Sony X #682",
+    "precio": 708.88,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 805,
+    "nombre": "Tarjeta Gráfica Sony Elite #805",
+    "precio": 124.05,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 483,
+    "nombre": "Cámara Web 4K Corsair RGB #483",
+    "precio": 1134.18,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 361,
+    "nombre": "Teclado Mecánico Sony Max #361",
+    "precio": 347.71,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 839,
+    "nombre": "Monitor Ultrawide 34\" Corsair Plus #839",
+    "precio": 1018.37,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 237,
+    "nombre": "Interfaz de Audio Sony X #237",
+    "precio": 1015.52,
+    "categoria": "Audio"
+  },
+  {
+    "id": 628,
+    "nombre": "Laptop Ultrabook HyperX Lite #628",
+    "precio": 603.35,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 958,
+    "nombre": "Memoria RAM 32GB Corsair RGB #958",
+    "precio": 1270.47,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 583,
+    "nombre": "Soporte Laptop Keychron Pro #583",
+    "precio": 841.28,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 273,
+    "nombre": "Control Inalámbrico MSI Max #273",
+    "precio": 146.37,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 202,
+    "nombre": "Monitor Portátil 15\" Sony X #202",
+    "precio": 599.13,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 14,
+    "nombre": "Micrófono Condensador Samsung Pro #14",
+    "precio": 405.51,
+    "categoria": "Audio"
+  },
+  {
+    "id": 428,
+    "nombre": "Mini PC Sony Studio #428",
+    "precio": 195.9,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 240,
+    "nombre": "Placa Madre ATX Samsung RGB #240",
+    "precio": 560.46,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 85,
+    "nombre": "Hub USB-C 8 en 1 LogiTech Pro #85",
+    "precio": 1126.53,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 533,
+    "nombre": "Panel Stream Dell Elite #533",
+    "precio": 402.1,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 173,
+    "nombre": "Monitor Curvo 27\" Razer Plus #173",
+    "precio": 578.97,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 290,
+    "nombre": "Interfaz de Audio Keychron Plus #290",
+    "precio": 962.16,
+    "categoria": "Audio"
+  },
+  {
+    "id": 486,
+    "nombre": "Laptop Ultrabook Sony Max #486",
+    "precio": 564.75,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 330,
+    "nombre": "Disco SSD NVMe 1TB LogiTech Pro #330",
+    "precio": 1016.16,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 684,
+    "nombre": "Hub USB-C 8 en 1 Asus Studio #684",
+    "precio": 713.56,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 319,
+    "nombre": "Mouse Gamer MSI X #319",
+    "precio": 933.89,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 455,
+    "nombre": "Monitor Portátil 15\" Keychron Plus #455",
+    "precio": 1415.44,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 250,
+    "nombre": "Parlantes Bluetooth Samsung RGB #250",
+    "precio": 500.07,
+    "categoria": "Audio"
+  },
+  {
+    "id": 847,
+    "nombre": "Workstation Razer RGB #847",
+    "precio": 919.8,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 280,
+    "nombre": "Memoria RAM 32GB Razer V2 #280",
+    "precio": 975.71,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 456,
+    "nombre": "Lámpara de Escritorio Dell Studio #456",
+    "precio": 957.48,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 902,
+    "nombre": "Teclado Mecánico Samsung Ultra #902",
+    "precio": 702.83,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 762,
+    "nombre": "Monitor IPS 24\" Dell Lite #762",
+    "precio": 1055.2,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 548,
+    "nombre": "Interfaz de Audio Samsung V2 #548",
+    "precio": 978.07,
+    "categoria": "Audio"
+  },
+  {
+    "id": 181,
+    "nombre": "Workstation Samsung Plus #181",
+    "precio": 185.61,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 558,
+    "nombre": "Disco SSD NVMe 1TB Razer Plus #558",
+    "precio": 79.48,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 629,
+    "nombre": "Soporte Laptop LogiTech V2 #629",
+    "precio": 67.37,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 424,
+    "nombre": "Control Inalámbrico Razer Ultra #424",
+    "precio": 1493.94,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 844,
+    "nombre": "Monitor Ultrawide 34\" Sony Lite #844",
+    "precio": 184.79,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 11,
+    "nombre": "Barra de Sonido MSI Lite #11",
+    "precio": 361.38,
+    "categoria": "Audio"
+  },
+  {
+    "id": 200,
+    "nombre": "Workstation Sony Elite #200",
+    "precio": 811.87,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 426,
+    "nombre": "Placa Madre ATX Razer Pro #426",
+    "precio": 590.3,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 535,
+    "nombre": "Dock Thunderbolt Samsung RGB #535",
+    "precio": 564.07,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 32,
+    "nombre": "Alfombrilla XXL Razer RGB #32",
+    "precio": 1424.68,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 580,
+    "nombre": "Monitor IPS 24\" HyperX Max #580",
+    "precio": 1048.37,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 405,
+    "nombre": "Barra de Sonido Sony Elite #405",
+    "precio": 815.81,
+    "categoria": "Audio"
+  },
+  {
+    "id": 278,
+    "nombre": "Mini PC Sony Studio #278",
+    "precio": 885.96,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 445,
+    "nombre": "Placa Madre ATX MSI Studio #445",
+    "precio": 1093.18,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 772,
+    "nombre": "Soporte Laptop HyperX Studio #772",
+    "precio": 1329.5,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 373,
+    "nombre": "Panel Stream Dell Elite #373",
+    "precio": 986.52,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 723,
+    "nombre": "Monitor Curvo 27\" Razer Plus #723",
+    "precio": 1252.54,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 401,
+    "nombre": "Parlantes Bluetooth HyperX X #401",
+    "precio": 928.09,
+    "categoria": "Audio"
+  },
+  {
+    "id": 79,
+    "nombre": "Chromebook Razer Ultra #79",
+    "precio": 1409.31,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 538,
+    "nombre": "Fuente de Poder 750W Samsung V2 #538",
+    "precio": 428.25,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 576,
+    "nombre": "Soporte Laptop MSI Lite #576",
+    "precio": 1039.14,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 549,
+    "nombre": "Mouse Gamer MSI X #549",
+    "precio": 335.3,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 711,
+    "nombre": "Monitor Ultrawide 34\" Razer Pro #711",
+    "precio": 673.71,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 42,
+    "nombre": "Micrófono Condensador LogiTech Plus #42",
+    "precio": 363.34,
+    "categoria": "Audio"
+  },
+  {
+    "id": 886,
+    "nombre": "Mini PC Asus Elite #886",
+    "precio": 551.68,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 633,
+    "nombre": "Placa Madre ATX Dell Elite #633",
+    "precio": 1471.62,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 859,
+    "nombre": "Cámara Web 4K Samsung Pro #859",
+    "precio": 558.59,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 140,
+    "nombre": "Control Inalámbrico Keychron Plus #140",
+    "precio": 1353.72,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 386,
+    "nombre": "Monitor Curvo 27\" Sony Max #386",
+    "precio": 971.5,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 457,
+    "nombre": "Barra de Sonido HyperX Studio #457",
+    "precio": 102.1,
+    "categoria": "Audio"
+  },
+  {
+    "id": 933,
+    "nombre": "Tablet Pro LogiTech Ultra #933",
+    "precio": 422.51,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 814,
+    "nombre": "Memoria RAM 32GB Samsung Pro #814",
+    "precio": 1452.69,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 141,
+    "nombre": "Dock Thunderbolt Razer Pro #141",
+    "precio": 1424.13,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 625,
+    "nombre": "Panel Stream MSI Studio #625",
+    "precio": 1238.4,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 321,
+    "nombre": "Monitor IPS 24\" Keychron Ultra #321",
+    "precio": 148.41,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 709,
+    "nombre": "Audífonos Studio Asus Studio #709",
+    "precio": 327.61,
+    "categoria": "Audio"
+  },
+  {
+    "id": 458,
+    "nombre": "Laptop Ultrabook HyperX Lite #458",
+    "precio": 963.57,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 874,
+    "nombre": "Tarjeta Gráfica LogiTech V2 #874",
+    "precio": 1456.99,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 327,
+    "nombre": "Cámara Web 4K LogiTech Plus #327",
+    "precio": 87.26,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 127,
+    "nombre": "Alfombrilla XXL HyperX Studio #127",
+    "precio": 508.26,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 133,
+    "nombre": "Monitor Ultrawide 34\" LogiTech Ultra #133",
+    "precio": 1483.37,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 818,
+    "nombre": "Audífonos Studio Razer Plus #818",
+    "precio": 1183.02,
+    "categoria": "Audio"
+  },
+  {
+    "id": 398,
+    "nombre": "Mini PC Sony Studio #398",
+    "precio": 317.35,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 916,
+    "nombre": "Disco SSD NVMe 1TB Corsair V2 #916",
+    "precio": 1246.77,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 994,
+    "nombre": "Dock Thunderbolt Sony Lite #994",
+    "precio": 836.66,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 416,
+    "nombre": "Alfombrilla XXL Samsung Plus #416",
+    "precio": 884.54,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 596,
+    "nombre": "Monitor Portátil 15\" Dell Studio #596",
+    "precio": 1221.82,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 259,
+    "nombre": "Barra de Sonido Dell Max #259",
+    "precio": 358.7,
+    "categoria": "Audio"
+  },
+  {
+    "id": 314,
+    "nombre": "Chromebook HyperX Elite #314",
+    "precio": 1164.26,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 410,
+    "nombre": "Disco SSD NVMe 1TB LogiTech Pro #410",
+    "precio": 1185.5,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 163,
+    "nombre": "Dock Thunderbolt LogiTech Ultra #163",
+    "precio": 898.82,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 305,
+    "nombre": "Alfombrilla XXL Sony Elite #305",
+    "precio": 424.58,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 287,
+    "nombre": "Monitor Curvo 27\" Samsung Ultra #287",
+    "precio": 1476.23,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 645,
+    "nombre": "Parlantes Bluetooth MSI Studio #645",
+    "precio": 1481.44,
+    "categoria": "Audio"
+  },
+  {
+    "id": 636,
+    "nombre": "Mini PC Asus Elite #636",
+    "precio": 815.84,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 354,
+    "nombre": "Disco SSD NVMe 1TB Keychron RGB #354",
+    "precio": 1200.19,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 69,
+    "nombre": "Cámara Web 4K Samsung Pro #69",
+    "precio": 175.57,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 679,
+    "nombre": "Alfombrilla XXL Dell Max #679",
+    "precio": 1301.27,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 834,
+    "nombre": "Monitor Portátil 15\" HyperX Elite #834",
+    "precio": 208.12,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 936,
+    "nombre": "Micrófono Condensador Keychron Ultra #936",
+    "precio": 545.06,
+    "categoria": "Audio"
+  },
+  {
+    "id": 680,
+    "nombre": "Mini PC HyperX Max #680",
+    "precio": 1185.19,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 720,
+    "nombre": "Tarjeta Gráfica Corsair Ultra #720",
+    "precio": 888.21,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 238,
+    "nombre": "Cámara Web 4K Sony Studio #238",
+    "precio": 35.48,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 266,
+    "nombre": "Teclado Mecánico Corsair V2 #266",
+    "precio": 406.87,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 91,
+    "nombre": "Monitor IPS 24\" Keychron Ultra #91",
+    "precio": 200.62,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 836,
+    "nombre": "Barra de Sonido Samsung Plus #836",
+    "precio": 638.39,
+    "categoria": "Audio"
+  },
+  {
+    "id": 863,
+    "nombre": "Laptop Ultrabook Razer Plus #863",
+    "precio": 181.11,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 55,
+    "nombre": "Fuente de Poder 750W Asus Lite #55",
+    "precio": 106.57,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 658,
+    "nombre": "Soporte Laptop Asus X #658",
+    "precio": 679.03,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 944,
+    "nombre": "Panel Stream Corsair Plus #944",
+    "precio": 550.71,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 407,
+    "nombre": "Monitor Portátil 15\" Corsair Pro #407",
+    "precio": 895.38,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 381,
+    "nombre": "Interfaz de Audio Dell Studio #381",
+    "precio": 684.58,
+    "categoria": "Audio"
+  },
+  {
+    "id": 125,
+    "nombre": "Chromebook Keychron Plus #125",
+    "precio": 341.67,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 492,
+    "nombre": "Memoria RAM 32GB LogiTech Plus #492",
+    "precio": 927.28,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 803,
+    "nombre": "Lámpara de Escritorio Samsung V2 #803",
+    "precio": 1094.14,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 901,
+    "nombre": "Alfombrilla XXL MSI Lite #901",
+    "precio": 1364.22,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 431,
+    "nombre": "Monitor Portátil 15\" LogiTech RGB #431",
+    "precio": 992.45,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 946,
+    "nombre": "Parlantes Bluetooth Razer Pro #946",
+    "precio": 460.83,
+    "categoria": "Audio"
+  },
+  {
+    "id": 704,
+    "nombre": "Chromebook HyperX Elite #704",
+    "precio": 969.29,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 295,
+    "nombre": "Disco SSD NVMe 1TB Dell X #295",
+    "precio": 58.35,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 879,
+    "nombre": "Hub USB-C 8 en 1 Keychron RGB #879",
+    "precio": 1497.9,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 213,
+    "nombre": "Teclado Mecánico HyperX Lite #213",
+    "precio": 1272.78,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 919,
+    "nombre": "Monitor 4K 32\" LogiTech V2 #919",
+    "precio": 646.3,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 38,
+    "nombre": "Barra de Sonido Keychron Pro #38",
+    "precio": 172.65,
+    "categoria": "Audio"
+  },
+  {
+    "id": 861,
+    "nombre": "Mini PC Keychron Ultra #861",
+    "precio": 1072.05,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 899,
+    "nombre": "Disco SSD NVMe 1TB Asus Studio #899",
+    "precio": 672.02,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 126,
+    "nombre": "Lámpara de Escritorio Dell Studio #126",
+    "precio": 1350.11,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 24,
+    "nombre": "Alfombrilla XXL LogiTech V2 #24",
+    "precio": 491.3,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 840,
+    "nombre": "Monitor Ultrawide 34\" MSI Studio #840",
+    "precio": 232.72,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 977,
+    "nombre": "Barra de Sonido HyperX Studio #977",
+    "precio": 199.77,
+    "categoria": "Audio"
+  },
+  {
+    "id": 102,
+    "nombre": "Chromebook Sony X #102",
+    "precio": 940.98,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 116,
+    "nombre": "Fuente de Poder 750W LogiTech RGB #116",
+    "precio": 883.02,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 436,
+    "nombre": "Dock Thunderbolt HyperX X #436",
+    "precio": 1071.68,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 951,
+    "nombre": "Teclado Mecánico Sony Max #951",
+    "precio": 578.79,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 121,
+    "nombre": "Monitor IPS 24\" Keychron Ultra #121",
+    "precio": 900.92,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 385,
+    "nombre": "Micrófono Condensador HyperX Max #385",
+    "precio": 450.81,
+    "categoria": "Audio"
+  },
+  {
+    "id": 48,
+    "nombre": "Laptop Ultrabook HyperX Lite #48",
+    "precio": 764.26,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 172,
+    "nombre": "Disco SSD NVMe 1TB Samsung Ultra #172",
+    "precio": 652.14,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 318,
+    "nombre": "Soporte Laptop Asus X #318",
+    "precio": 1192.13,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 325,
+    "nombre": "Teclado Mecánico Dell X #325",
+    "precio": 182.25,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 881,
+    "nombre": "Monitor 4K 32\" Samsung Plus #881",
+    "precio": 986.21,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 264,
+    "nombre": "Micrófono Condensador Samsung Pro #264",
+    "precio": 1318.03,
+    "categoria": "Audio"
+  },
+  {
+    "id": 146,
+    "nombre": "Tablet Pro HyperX X #146",
+    "precio": 832.39,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 44,
+    "nombre": "Fuente de Poder 750W Razer Ultra #44",
+    "precio": 1299.85,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 505,
+    "nombre": "Hub USB-C 8 en 1 LogiTech Pro #505",
+    "precio": 651.94,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 87,
+    "nombre": "Control Inalámbrico Sony X #87",
+    "precio": 1333.48,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 377,
+    "nombre": "Monitor Ultrawide 34\" Keychron V2 #377",
+    "precio": 627.75,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 531,
+    "nombre": "Parlantes Bluetooth HyperX X #531",
+    "precio": 1243.2,
+    "categoria": "Audio"
+  },
+  {
+    "id": 985,
+    "nombre": "Tablet Pro Samsung RGB #985",
+    "precio": 605.31,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 852,
+    "nombre": "Tarjeta Gráfica Razer RGB #852",
+    "precio": 1097.66,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 346,
+    "nombre": "Soporte Laptop MSI Lite #346",
+    "precio": 477.07,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 404,
+    "nombre": "Mouse Gamer Samsung Pro #404",
+    "precio": 477.04,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 227,
+    "nombre": "Monitor Curvo 27\" Samsung Ultra #227",
+    "precio": 391.28,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 988,
+    "nombre": "Barra de Sonido Keychron Pro #988",
+    "precio": 1430.95,
+    "categoria": "Audio"
+  },
+  {
+    "id": 165,
+    "nombre": "Laptop Ultrabook LogiTech Pro #165",
+    "precio": 1033.99,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 336,
+    "nombre": "Tarjeta Gráfica Samsung Plus #336",
+    "precio": 717.71,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 601,
+    "nombre": "Lámpara de Escritorio LogiTech RGB #601",
+    "precio": 147.74,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 917,
+    "nombre": "Teclado Mecánico MSI Elite #917",
+    "precio": 139.02,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 473,
+    "nombre": "Monitor 4K 32\" Keychron Pro #473",
+    "precio": 654.63,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 448,
+    "nombre": "Interfaz de Audio Samsung V2 #448",
+    "precio": 1119.95,
+    "categoria": "Audio"
+  },
+  {
+    "id": 108,
+    "nombre": "Tablet Pro Dell Elite #108",
+    "precio": 566.5,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 857,
+    "nombre": "Placa Madre ATX Asus Max #857",
+    "precio": 205.61,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 156,
+    "nombre": "Dock Thunderbolt HyperX X #156",
+    "precio": 101.25,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 459,
+    "nombre": "Control Inalámbrico HyperX Elite #459",
+    "precio": 1435.46,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 281,
+    "nombre": "Monitor IPS 24\" Keychron Ultra #281",
+    "precio": 847.78,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 208,
+    "nombre": "Parlantes Bluetooth LogiTech Ultra #208",
+    "precio": 1008.98,
+    "categoria": "Audio"
+  },
+  {
+    "id": 155,
+    "nombre": "Workstation Corsair Ultra #155",
+    "precio": 623.28,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 588,
+    "nombre": "Memoria RAM 32GB Corsair RGB #588",
+    "precio": 1311.93,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 758,
+    "nombre": "Soporte Laptop Asus X #758",
+    "precio": 1412.4,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 986,
+    "nombre": "Mouse Gamer Keychron Ultra #986",
+    "precio": 641.33,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 384,
+    "nombre": "Monitor Curvo 27\" Asus Studio #384",
+    "precio": 1374.78,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 802,
+    "nombre": "Parlantes Bluetooth Keychron V2 #802",
+    "precio": 88.55,
+    "categoria": "Audio"
+  },
+  {
+    "id": 649,
+    "nombre": "Workstation LogiTech V2 #649",
+    "precio": 439.99,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 807,
+    "nombre": "Memoria RAM 32GB Dell Lite #807",
+    "precio": 476.92,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 537,
+    "nombre": "Soporte Laptop Razer RGB #537",
+    "precio": 166.16,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 504,
+    "nombre": "Teclado Mecánico Keychron RGB #504",
+    "precio": 767.03,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 738,
+    "nombre": "Monitor Curvo 27\" HyperX Lite #738",
+    "precio": 242.24,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 560,
+    "nombre": "Interfaz de Audio Keychron Plus #560",
+    "precio": 729.5,
+    "categoria": "Audio"
+  },
+  {
+    "id": 545,
+    "nombre": "Tablet Pro Samsung RGB #545",
+    "precio": 1272.74,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 357,
+    "nombre": "Tarjeta Gráfica HyperX Studio #357",
+    "precio": 532.97,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 207,
+    "nombre": "Lámpara de Escritorio Corsair Pro #207",
+    "precio": 839.72,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 889,
+    "nombre": "Mouse Gamer MSI X #889",
+    "precio": 182.95,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 612,
+    "nombre": "Monitor Curvo 27\" MSI Elite #612",
+    "precio": 426.51,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 712,
+    "nombre": "Micrófono Condensador LogiTech Plus #712",
+    "precio": 348.52,
+    "categoria": "Audio"
+  },
+  {
+    "id": 532,
+    "nombre": "Workstation HyperX Studio #532",
+    "precio": 650.52,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 260,
+    "nombre": "Memoria RAM 32GB Razer V2 #260",
+    "precio": 846.72,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 154,
+    "nombre": "Cámara Web 4K MSI X #154",
+    "precio": 1153.94,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 853,
+    "nombre": "Mouse Gamer Sony Studio #853",
+    "precio": 937.13,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 64,
+    "nombre": "Monitor Portátil 15\" HyperX Elite #64",
+    "precio": 1016.37,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 435,
+    "nombre": "Audífonos Studio Dell X #435",
+    "precio": 840.43,
+    "categoria": "Audio"
+  },
+  {
+    "id": 340,
+    "nombre": "Mini PC HyperX Max #340",
+    "precio": 918.18,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 514,
+    "nombre": "Memoria RAM 32GB Samsung Pro #514",
+    "precio": 990.85,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 749,
+    "nombre": "Soporte Laptop LogiTech V2 #749",
+    "precio": 1043.89,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 488,
+    "nombre": "Alfombrilla XXL Keychron Pro #488",
+    "precio": 55.08,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 525,
+    "nombre": "Monitor Curvo 27\" LogiTech Pro #525",
+    "precio": 418.63,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 894,
+    "nombre": "Audífonos Studio Keychron RGB #894",
+    "precio": 1146.47,
+    "categoria": "Audio"
+  },
+  {
+    "id": 953,
+    "nombre": "Laptop Ultrabook Razer Plus #953",
+    "precio": 1383.25,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 187,
+    "nombre": "Disco SSD NVMe 1TB MSI Elite #187",
+    "precio": 534.32,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 674,
+    "nombre": "Lámpara de Escritorio HyperX Elite #674",
+    "precio": 281.93,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 344,
+    "nombre": "Panel Stream Corsair Plus #344",
+    "precio": 225.16,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 378,
+    "nombre": "Monitor Ultrawide 34\" Dell Elite #378",
+    "precio": 990.13,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 904,
+    "nombre": "Micrófono Condensador Samsung Pro #904",
+    "precio": 115.54,
+    "categoria": "Audio"
+  },
+  {
+    "id": 369,
+    "nombre": "Workstation LogiTech V2 #369",
+    "precio": 1114.56,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 569,
+    "nombre": "Fuente de Poder 750W HyperX Elite #569",
+    "precio": 1458.05,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 276,
+    "nombre": "Cámara Web 4K Asus Elite #276",
+    "precio": 148.54,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 691,
+    "nombre": "Alfombrilla XXL MSI Lite #691",
+    "precio": 801.36,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 267,
+    "nombre": "Monitor Ultrawide 34\" Keychron V2 #267",
+    "precio": 571.78,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 783,
+    "nombre": "Micrófono Condensador Sony Studio #783",
+    "precio": 687.02,
+    "categoria": "Audio"
+  },
+  {
+    "id": 938,
+    "nombre": "Workstation Asus X #938",
+    "precio": 246.23,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 534,
+    "nombre": "Placa Madre ATX Corsair Plus #534",
+    "precio": 475.72,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 23,
+    "nombre": "Dock Thunderbolt LogiTech Ultra #23",
+    "precio": 494.68,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 543,
+    "nombre": "Teclado Mecánico HyperX Lite #543",
+    "precio": 1412.81,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 98,
+    "nombre": "Monitor IPS 24\" Sony Studio #98",
+    "precio": 899.18,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 296,
+    "nombre": "Audífonos Studio Corsair V2 #296",
+    "precio": 1326.41,
+    "categoria": "Audio"
+  },
+  {
+    "id": 461,
+    "nombre": "Mini PC Keychron Ultra #461",
+    "precio": 243.5,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 198,
+    "nombre": "Placa Madre ATX LogiTech Ultra #198",
+    "precio": 1134.6,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 708,
+    "nombre": "Hub USB-C 8 en 1 HyperX Lite #708",
+    "precio": 86.05,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 262,
+    "nombre": "Teclado Mecánico Samsung Ultra #262",
+    "precio": 133.39,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 311,
+    "nombre": "Monitor Curvo 27\" Corsair V2 #311",
+    "precio": 671.35,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 980,
+    "nombre": "Audífonos Studio LogiTech Pro #980",
+    "precio": 642.93,
+    "categoria": "Audio"
+  },
+  {
+    "id": 161,
+    "nombre": "Workstation Samsung Plus #161",
+    "precio": 915.33,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 403,
+    "nombre": "Disco SSD NVMe 1TB HyperX Lite #403",
+    "precio": 628.31,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 540,
+    "nombre": "Lámpara de Escritorio Asus Lite #540",
+    "precio": 332.77,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 177,
+    "nombre": "Mouse Gamer Dell Lite #177",
+    "precio": 774.37,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 727,
+    "nombre": "Monitor 4K 32\" Razer RGB #727",
+    "precio": 525.62,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 794,
+    "nombre": "Audífonos Studio Keychron RGB #794",
+    "precio": 177.0,
+    "categoria": "Audio"
+  },
+  {
+    "id": 819,
+    "nombre": "Mini PC Samsung Pro #819",
+    "precio": 1021.19,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 779,
+    "nombre": "Tarjeta Gráfica Dell Max #779",
+    "precio": 894.58,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 757,
+    "nombre": "Cámara Web 4K LogiTech Plus #757",
+    "precio": 796.08,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 298,
+    "nombre": "Control Inalámbrico Samsung V2 #298",
+    "precio": 470.93,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 92,
+    "nombre": "Monitor Portátil 15\" Sony X #92",
+    "precio": 340.13,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 930,
+    "nombre": "Barra de Sonido Corsair Ultra #930",
+    "precio": 1476.86,
+    "categoria": "Audio"
+  },
+  {
+    "id": 450,
+    "nombre": "Chromebook Asus Lite #450",
+    "precio": 93.52,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 646,
+    "nombre": "Disco SSD NVMe 1TB Corsair V2 #646",
+    "precio": 316.18,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 15,
+    "nombre": "Hub USB-C 8 en 1 LogiTech Pro #15",
+    "precio": 1418.64,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 481,
+    "nombre": "Alfombrilla XXL MSI Lite #481",
+    "precio": 1153.82,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 997,
+    "nombre": "Monitor Ultrawide 34\" Keychron V2 #997",
+    "precio": 1149.07,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 869,
+    "nombre": "Barra de Sonido Dell Max #869",
+    "precio": 442.7,
+    "categoria": "Audio"
+  },
+  {
+    "id": 432,
+    "nombre": "Mini PC Dell Lite #432",
+    "precio": 190.54,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 696,
+    "nombre": "Memoria RAM 32GB Keychron Ultra #696",
+    "precio": 752.11,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 503,
+    "nombre": "Dock Thunderbolt LogiTech Ultra #503",
+    "precio": 652.81,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 261,
+    "nombre": "Control Inalámbrico Dell Studio #261",
+    "precio": 204.23,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 329,
+    "nombre": "Monitor 4K 32\" LogiTech V2 #329",
+    "precio": 804.48,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 180,
+    "nombre": "Parlantes Bluetooth Samsung RGB #180",
+    "precio": 354.4,
+    "categoria": "Audio"
+  },
+  {
+    "id": 565,
+    "nombre": "Laptop Ultrabook LogiTech Pro #565",
+    "precio": 843.38,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 396,
+    "nombre": "Tarjeta Gráfica Samsung Plus #396",
+    "precio": 1006.06,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 496,
+    "nombre": "Lámpara de Escritorio Dell Studio #496",
+    "precio": 539.0,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 36,
+    "nombre": "Panel Stream Razer Pro #36",
+    "precio": 602.84,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 443,
+    "nombre": "Monitor 4K 32\" Keychron Pro #443",
+    "precio": 1116.16,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 928,
+    "nombre": "Interfaz de Audio Samsung V2 #928",
+    "precio": 661.09,
+    "categoria": "Audio"
+  },
+  {
+    "id": 660,
+    "nombre": "Mini PC HyperX Max #660",
+    "precio": 696.11,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 637,
+    "nombre": "Placa Madre ATX Asus Max #637",
+    "precio": 127.86,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 99,
+    "nombre": "Soporte Laptop LogiTech V2 #99",
+    "precio": 477.83,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 338,
+    "nombre": "Alfombrilla XXL Keychron Pro #338",
+    "precio": 650.78,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 13,
+    "nombre": "Monitor Portátil 15\" Samsung V2 #13",
+    "precio": 613.78,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 685,
+    "nombre": "Micrófono Condensador HyperX Max #685",
+    "precio": 964.53,
+    "categoria": "Audio"
+  },
+  {
+    "id": 117,
+    "nombre": "Tablet Pro Keychron V2 #117",
+    "precio": 442.8,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 447,
+    "nombre": "Disco SSD NVMe 1TB MSI Elite #447",
+    "precio": 614.69,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 408,
+    "nombre": "Soporte Laptop Asus X #408",
+    "precio": 1449.71,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 816,
+    "nombre": "Mouse Gamer Keychron Ultra #816",
+    "precio": 267.75,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 313,
+    "nombre": "Monitor Ultrawide 34\" LogiTech Ultra #313",
+    "precio": 1422.05,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 359,
+    "nombre": "Micrófono Condensador MSI X #359",
+    "precio": 696.62,
+    "categoria": "Audio"
+  },
+  {
+    "id": 472,
+    "nombre": "Laptop Ultrabook MSI Elite #472",
+    "precio": 1038.14,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 205,
+    "nombre": "Placa Madre ATX MSI Studio #205",
+    "precio": 550.44,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 228,
+    "nombre": "Lámpara de Escritorio MSI Max #228",
+    "precio": 661.83,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 482,
+    "nombre": "Control Inalámbrico Corsair Pro #482",
+    "precio": 169.52,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 40,
+    "nombre": "Monitor 4K 32\" Sony Elite #40",
+    "precio": 660.29,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 392,
+    "nombre": "Audífonos Studio Samsung Ultra #392",
+    "precio": 607.87,
+    "categoria": "Audio"
+  },
+  {
+    "id": 111,
+    "nombre": "Laptop Ultrabook Corsair V2 #111",
+    "precio": 129.03,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 833,
+    "nombre": "Fuente de Poder 750W MSI Max #833",
+    "precio": 1307.34,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 813,
+    "nombre": "Dock Thunderbolt LogiTech Ultra #813",
+    "precio": 1121.76,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 963,
+    "nombre": "Teclado Mecánico HyperX Lite #963",
+    "precio": 341.7,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 422,
+    "nombre": "Monitor Curvo 27\" MSI Elite #422",
+    "precio": 1171.33,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 341,
+    "nombre": "Audífonos Studio Sony Max #341",
+    "precio": 125.65,
+    "categoria": "Audio"
+  },
+  {
+    "id": 184,
+    "nombre": "Tablet Pro Sony Lite #184",
+    "precio": 954.24,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 998,
+    "nombre": "Placa Madre ATX LogiTech Ultra #998",
+    "precio": 801.54,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 423,
+    "nombre": "Hub USB-C 8 en 1 Razer Plus #423",
+    "precio": 300.53,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 182,
+    "nombre": "Teclado Mecánico Samsung Ultra #182",
+    "precio": 1167.03,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 905,
+    "nombre": "Monitor Ultrawide 34\" Samsung RGB #905",
+    "precio": 534.44,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 862,
+    "nombre": "Barra de Sonido Razer RGB #862",
+    "precio": 1437.84,
+    "categoria": "Audio"
+  },
+  {
+    "id": 650,
+    "nombre": "Mini PC HyperX Max #650",
+    "precio": 972.42,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 746,
+    "nombre": "Fuente de Poder 750W LogiTech RGB #746",
+    "precio": 231.76,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 701,
+    "nombre": "Dock Thunderbolt Razer Pro #701",
+    "precio": 164.97,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 106,
+    "nombre": "Teclado Mecánico Corsair V2 #106",
+    "precio": 392.88,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 920,
+    "nombre": "Monitor Curvo 27\" Dell X #920",
+    "precio": 270.17,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 652,
+    "nombre": "Interfaz de Audio Corsair Pro #652",
+    "precio": 239.47,
+    "categoria": "Audio"
+  },
+  {
+    "id": 367,
+    "nombre": "Tablet Pro Keychron V2 #367",
+    "precio": 1141.62,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 620,
+    "nombre": "Fuente de Poder 750W Keychron Plus #620",
+    "precio": 124.13,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 906,
+    "nombre": "Hub USB-C 8 en 1 Sony Max #906",
+    "precio": 1427.52,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 316,
+    "nombre": "Mouse Gamer Keychron Ultra #316",
+    "precio": 946.39,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 43,
+    "nombre": "Monitor Ultrawide 34\" LogiTech Ultra #43",
+    "precio": 702.36,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 131,
+    "nombre": "Interfaz de Audio Dell Studio #131",
+    "precio": 850.84,
+    "categoria": "Audio"
+  },
+  {
+    "id": 441,
+    "nombre": "Tablet Pro Razer Pro #441",
+    "precio": 874.25,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 152,
+    "nombre": "Memoria RAM 32GB LogiTech Plus #152",
+    "precio": 1025.53,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 589,
+    "nombre": "Dock Thunderbolt Corsair Plus #589",
+    "precio": 1324.49,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 37,
+    "nombre": "Control Inalámbrico Sony X #37",
+    "precio": 968.77,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 153,
+    "nombre": "Monitor Curvo 27\" Razer Plus #153",
+    "precio": 1479.96,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 677,
+    "nombre": "Audífonos Studio MSI Elite #677",
+    "precio": 492.93,
+    "categoria": "Audio"
+  },
+  {
+    "id": 961,
+    "nombre": "Laptop Ultrabook Corsair V2 #961",
+    "precio": 1456.81,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 602,
+    "nombre": "Tarjeta Gráfica Razer RGB #602",
+    "precio": 482.41,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 438,
+    "nombre": "Dock Thunderbolt Dell Elite #438",
+    "precio": 666.37,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 453,
+    "nombre": "Teclado Mecánico HyperX Lite #453",
+    "precio": 709.75,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 786,
+    "nombre": "Monitor Ultrawide 34\" HyperX X #786",
+    "precio": 951.5,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 269,
+    "nombre": "Interfaz de Audio HyperX Elite #269",
+    "precio": 1196.94,
+    "categoria": "Audio"
+  },
+  {
+    "id": 134,
+    "nombre": "Tablet Pro Sony Lite #134",
+    "precio": 892.03,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 342,
+    "nombre": "Fuente de Poder 750W Corsair Pro #342",
+    "precio": 535.69,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 804,
+    "nombre": "Cámara Web 4K MSI X #804",
+    "precio": 122.4,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 46,
+    "nombre": "Panel Stream Razer Pro #46",
+    "precio": 699.07,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 284,
+    "nombre": "Monitor Portátil 15\" HyperX Elite #284",
+    "precio": 67.96,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 653,
+    "nombre": "Interfaz de Audio MSI Max #653",
+    "precio": 560.68,
+    "categoria": "Audio"
+  },
+  {
+    "id": 949,
+    "nombre": "Laptop Ultrabook Keychron RGB #949",
+    "precio": 439.17,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 53,
+    "nombre": "Disco SSD NVMe 1TB HyperX Lite #53",
+    "precio": 971.26,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 822,
+    "nombre": "Hub USB-C 8 en 1 MSI Elite #822",
+    "precio": 1466.32,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 780,
+    "nombre": "Panel Stream Samsung RGB #780",
+    "precio": 146.36,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 978,
+    "nombre": "Monitor Portátil 15\" MSI Max #978",
+    "precio": 895.99,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 600,
+    "nombre": "Micrófono Condensador Razer V2 #600",
+    "precio": 584.11,
+    "categoria": "Audio"
+  },
+  {
+    "id": 209,
+    "nombre": "Mini PC Samsung Pro #209",
+    "precio": 875.53,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 352,
+    "nombre": "Disco SSD NVMe 1TB Samsung Ultra #352",
+    "precio": 1431.9,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 216,
+    "nombre": "Hub USB-C 8 en 1 Sony Max #216",
+    "precio": 1111.51,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 289,
+    "nombre": "Panel Stream Sony Lite #289",
+    "precio": 73.04,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 279,
+    "nombre": "Monitor Curvo 27\" Keychron RGB #279",
+    "precio": 1364.67,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 954,
+    "nombre": "Micrófono Condensador Samsung Pro #954",
+    "precio": 862.63,
+    "categoria": "Audio"
+  },
+  {
+    "id": 821,
+    "nombre": "Tablet Pro Razer Pro #821",
+    "precio": 292.1,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 110,
+    "nombre": "Placa Madre ATX Samsung RGB #110",
+    "precio": 912.25,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 119,
+    "nombre": "Dock Thunderbolt Corsair Plus #119",
+    "precio": 758.03,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 942,
+    "nombre": "Control Inalámbrico Corsair Pro #942",
+    "precio": 1437.09,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 138,
+    "nombre": "Monitor Curvo 27\" HyperX Lite #138",
+    "precio": 682.38,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 107,
+    "nombre": "Audífonos Studio MSI Elite #107",
+    "precio": 1218.72,
+    "categoria": "Audio"
+  },
+  {
+    "id": 307,
+    "nombre": "Mini PC LogiTech Plus #307",
+    "precio": 1258.02,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 973,
+    "nombre": "Fuente de Poder 750W MSI Max #973",
+    "precio": 1473.79,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 9,
+    "nombre": "Hub USB-C 8 en 1 Keychron RGB #9",
+    "precio": 137.48,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 823,
+    "nombre": "Teclado Mecánico HyperX Lite #823",
+    "precio": 973.44,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 310,
+    "nombre": "Monitor Portátil 15\" Asus Lite #310",
+    "precio": 70.24,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 557,
+    "nombre": "Micrófono Condensador Dell Lite #557",
+    "precio": 1064.94,
+    "categoria": "Audio"
+  },
+  {
+    "id": 744,
+    "nombre": "Tablet Pro Sony Lite #744",
+    "precio": 1486.59,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 635,
+    "nombre": "Memoria RAM 32GB HyperX Max #635",
+    "precio": 791.81,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 292,
+    "nombre": "Dock Thunderbolt Asus Max #292",
+    "precio": 919.39,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 379,
+    "nombre": "Alfombrilla XXL Dell Max #379",
+    "precio": 553.48,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 890,
+    "nombre": "Monitor Ultrawide 34\" MSI Studio #890",
+    "precio": 1377.89,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 630,
+    "nombre": "Audífonos Studio LogiTech Pro #630",
+    "precio": 588.48,
+    "categoria": "Audio"
+  },
+  {
+    "id": 358,
+    "nombre": "Tablet Pro Dell Elite #358",
+    "precio": 1164.4,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 713,
+    "nombre": "Disco SSD NVMe 1TB HyperX Lite #713",
+    "precio": 1022.2,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 621,
+    "nombre": "Dock Thunderbolt Razer Pro #621",
+    "precio": 89.92,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 519,
+    "nombre": "Control Inalámbrico HyperX Elite #519",
+    "precio": 950.76,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 663,
+    "nombre": "Monitor Portátil 15\" Samsung V2 #663",
+    "precio": 509.96,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 551,
+    "nombre": "Barra de Sonido MSI Lite #551",
+    "precio": 502.58,
+    "categoria": "Audio"
+  },
+  {
+    "id": 76,
+    "nombre": "Chromebook Dell Studio #76",
+    "precio": 842.25,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 103,
+    "nombre": "Memoria RAM 32GB Sony Studio #103",
+    "precio": 587.21,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 577,
+    "nombre": "Cámara Web 4K LogiTech Plus #577",
+    "precio": 386.97,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 858,
+    "nombre": "Control Inalámbrico Samsung V2 #858",
+    "precio": 1279.13,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 10,
+    "nombre": "Monitor IPS 24\" HyperX Max #10",
+    "precio": 1447.04,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 75,
+    "nombre": "Barra de Sonido Sony Elite #75",
+    "precio": 908.82,
+    "categoria": "Audio"
+  },
+  {
+    "id": 952,
+    "nombre": "Laptop Ultrabook MSI Elite #952",
+    "precio": 235.76,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 469,
+    "nombre": "Fuente de Poder 750W HyperX Elite #469",
+    "precio": 133.27,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 308,
+    "nombre": "Lámpara de Escritorio MSI Max #308",
+    "precio": 999.45,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 135,
+    "nombre": "Mouse Gamer HyperX Max #135",
+    "precio": 1376.12,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 860,
+    "nombre": "Monitor 4K 32\" Sony Elite #860",
+    "precio": 473.62,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 885,
+    "nombre": "Interfaz de Audio Asus Lite #885",
+    "precio": 988.21,
+    "categoria": "Audio"
+  },
+  {
+    "id": 245,
+    "nombre": "Tablet Pro Samsung RGB #245",
+    "precio": 997.26,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 642,
+    "nombre": "Tarjeta Gráfica Razer RGB #642",
+    "precio": 203.88,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 210,
+    "nombre": "Cámara Web 4K HyperX Max #210",
+    "precio": 1066.75,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 268,
+    "nombre": "Teclado Mecánico Razer Plus #268",
+    "precio": 138.06,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 871,
+    "nombre": "Monitor Ultrawide 34\" Razer Pro #871",
+    "precio": 843.68,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 536,
+    "nombre": "Audífonos Studio Corsair V2 #536",
+    "precio": 969.52,
+    "categoria": "Audio"
+  },
+  {
+    "id": 579,
+    "nombre": "Tablet Pro Corsair Plus #579",
+    "precio": 500.77,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 846,
+    "nombre": "Tarjeta Gráfica Samsung Plus #846",
+    "precio": 202.16,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 969,
+    "nombre": "Cámara Web 4K Samsung Pro #969",
+    "precio": 1057.81,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 84,
+    "nombre": "Alfombrilla XXL LogiTech V2 #84",
+    "precio": 1421.3,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 41,
+    "nombre": "Monitor Curvo 27\" Corsair V2 #41",
+    "precio": 1495.78,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 609,
+    "nombre": "Parlantes Bluetooth Sony Lite #609",
+    "precio": 1369.72,
+    "categoria": "Audio"
+  },
+  {
+    "id": 593,
+    "nombre": "Tablet Pro LogiTech Ultra #593",
+    "precio": 151.06,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 854,
+    "nombre": "Memoria RAM 32GB Samsung Pro #854",
+    "precio": 1009.64,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 584,
+    "nombre": "Soporte Laptop Dell Max #584",
+    "precio": 768.63,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 123,
+    "nombre": "Alfombrilla XXL Asus X #123",
+    "precio": 39.13,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 414,
+    "nombre": "Monitor Ultrawide 34\" Sony Lite #414",
+    "precio": 471.59,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 241,
+    "nombre": "Barra de Sonido MSI Lite #241",
+    "precio": 1427.34,
+    "categoria": "Audio"
+  },
+  {
+    "id": 724,
+    "nombre": "Mini PC MSI X #724",
+    "precio": 520.5,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 610,
+    "nombre": "Fuente de Poder 750W Keychron Plus #610",
+    "precio": 1152.04,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 767,
+    "nombre": "Cámara Web 4K LogiTech Plus #767",
+    "precio": 297.7,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 191,
+    "nombre": "Mouse Gamer Asus Elite #191",
+    "precio": 1499.97,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 83,
+    "nombre": "Monitor Ultrawide 34\" LogiTech Ultra #83",
+    "precio": 242.56,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 521,
+    "nombre": "Interfaz de Audio Dell Studio #521",
+    "precio": 452.14,
+    "categoria": "Audio"
+  },
+  {
+    "id": 877,
+    "nombre": "Laptop Ultrabook Samsung Ultra #877",
+    "precio": 1184.72,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 806,
+    "nombre": "Disco SSD NVMe 1TB Corsair V2 #806",
+    "precio": 767.44,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 784,
+    "nombre": "Dock Thunderbolt Sony Lite #784",
+    "precio": 815.18,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 515,
+    "nombre": "Mouse Gamer HyperX Max #515",
+    "precio": 1111.1,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 489,
+    "nombre": "Monitor IPS 24\" Samsung Pro #489",
+    "precio": 795.48,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 848,
+    "nombre": "Micrófono Condensador Corsair RGB #848",
+    "precio": 996.95,
+    "categoria": "Audio"
+  },
+  {
+    "id": 673,
+    "nombre": "Workstation Keychron Pro #673",
+    "precio": 1316.07,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 59,
+    "nombre": "Placa Madre ATX Sony Lite #59",
+    "precio": 931.63,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 322,
+    "nombre": "Lámpara de Escritorio Sony X #322",
+    "precio": 900.7,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 692,
+    "nombre": "Panel Stream Keychron V2 #692",
+    "precio": 241.53,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 556,
+    "nombre": "Monitor Ultrawide 34\" HyperX X #556",
+    "precio": 281.1,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 594,
+    "nombre": "Interfaz de Audio Razer Ultra #594",
+    "precio": 1042.95,
+    "categoria": "Audio"
+  },
+  {
+    "id": 838,
+    "nombre": "Chromebook MSI Max #838",
+    "precio": 941.61,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 223,
+    "nombre": "Placa Madre ATX Dell Elite #223",
+    "precio": 1355.15,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 304,
+    "nombre": "Cámara Web 4K MSI X #304",
+    "precio": 1085.12,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 717,
+    "nombre": "Teclado Mecánico MSI Elite #717",
+    "precio": 77.01,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 159,
+    "nombre": "Monitor Portátil 15\" Razer Ultra #159",
+    "precio": 554.08,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 499,
+    "nombre": "Parlantes Bluetooth Sony Lite #499",
+    "precio": 1082.74,
+    "categoria": "Audio"
+  },
+  {
+    "id": 570,
+    "nombre": "Mini PC HyperX Max #570",
+    "precio": 1454.75,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 898,
+    "nombre": "Disco SSD NVMe 1TB Razer Plus #898",
+    "precio": 920.57,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 293,
+    "nombre": "Cámara Web 4K Corsair RGB #293",
+    "precio": 1131.56,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 466,
+    "nombre": "Teclado Mecánico Corsair V2 #466",
+    "precio": 1178.29,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 989,
+    "nombre": "Monitor Ultrawide 34\" Corsair Plus #989",
+    "precio": 360.2,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 400,
+    "nombre": "Micrófono Condensador Razer V2 #400",
+    "precio": 367.88,
+    "categoria": "Audio"
+  },
+  {
+    "id": 3,
+    "nombre": "Laptop Ultrabook Razer Plus #3",
+    "precio": 1448.81,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 887,
+    "nombre": "Disco SSD NVMe 1TB MSI Elite #887",
+    "precio": 1179.14,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 169,
+    "nombre": "Lámpara de Escritorio Razer Ultra #169",
+    "precio": 1357.11,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 726,
+    "nombre": "Mouse Gamer Keychron Ultra #726",
+    "precio": 300.7,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 870,
+    "nombre": "Monitor IPS 24\" HyperX Max #870",
+    "precio": 1021.32,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 219,
+    "nombre": "Micrófono Condensador MSI X #219",
+    "precio": 860.78,
+    "categoria": "Audio"
+  },
+  {
+    "id": 493,
+    "nombre": "Mini PC Corsair RGB #493",
+    "precio": 667.61,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 716,
+    "nombre": "Disco SSD NVMe 1TB Corsair V2 #716",
+    "precio": 1156.92,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 752,
+    "nombre": "Soporte Laptop HyperX Studio #752",
+    "precio": 1169.85,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 171,
+    "nombre": "Alfombrilla XXL MSI Lite #171",
+    "precio": 760.33,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 243,
+    "nombre": "Monitor Curvo 27\" Razer Plus #243",
+    "precio": 634.97,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 981,
+    "nombre": "Parlantes Bluetooth HyperX X #981",
+    "precio": 253.14,
+    "categoria": "Audio"
+  },
+  {
+    "id": 16,
+    "nombre": "Laptop Ultrabook Sony Max #16",
+    "precio": 309.15,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 554,
+    "nombre": "Placa Madre ATX Corsair Plus #554",
+    "precio": 911.74,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 668,
+    "nombre": "Dock Thunderbolt Dell Elite #668",
+    "precio": 1311.03,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 52,
+    "nombre": "Panel Stream Keychron V2 #52",
+    "precio": 89.64,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 990,
+    "nombre": "Monitor Portátil 15\" Asus Lite #990",
+    "precio": 727.12,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 564,
+    "nombre": "Interfaz de Audio Razer Ultra #564",
+    "precio": 564.36,
+    "categoria": "Audio"
+  },
+  {
+    "id": 454,
+    "nombre": "Tablet Pro Sony Lite #454",
+    "precio": 1402.23,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 78,
+    "nombre": "Placa Madre ATX LogiTech Ultra #78",
+    "precio": 1070.56,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 256,
+    "nombre": "Lámpara de Escritorio Dell Studio #256",
+    "precio": 779.67,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 913,
+    "nombre": "Mouse Gamer Sony Studio #913",
+    "precio": 197.52,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 718,
+    "nombre": "Monitor 4K 32\" Asus X #718",
+    "precio": 136.81,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 188,
+    "nombre": "Interfaz de Audio Samsung V2 #188",
+    "precio": 250.54,
+    "categoria": "Audio"
+  },
+  {
+    "id": 830,
+    "nombre": "Mini PC HyperX Max #830",
+    "precio": 680.59,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 144,
+    "nombre": "Memoria RAM 32GB Samsung Pro #144",
+    "precio": 775.87,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 967,
+    "nombre": "Hub USB-C 8 en 1 Samsung Ultra #967",
+    "precio": 1248.6,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 815,
+    "nombre": "Panel Stream MSI Studio #815",
+    "precio": 148.47,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 706,
+    "nombre": "Monitor IPS 24\" Asus Elite #706",
+    "precio": 1366.83,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 924,
+    "nombre": "Audífonos Studio Keychron RGB #924",
+    "precio": 1227.25,
+    "categoria": "Audio"
+  },
+  {
+    "id": 255,
+    "nombre": "Workstation Corsair Ultra #255",
+    "precio": 1328.33,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 112,
+    "nombre": "Disco SSD NVMe 1TB Samsung Ultra #112",
+    "precio": 1396.54,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 348,
+    "nombre": "Soporte Laptop Asus X #348",
+    "precio": 629.37,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 413,
+    "nombre": "Control Inalámbrico MSI Max #413",
+    "precio": 601.92,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 63,
+    "nombre": "Monitor Ultrawide 34\" LogiTech Ultra #63",
+    "precio": 568.45,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 101,
+    "nombre": "Interfaz de Audio Dell Studio #101",
+    "precio": 586.62,
+    "categoria": "Audio"
+  },
+  {
+    "id": 662,
+    "nombre": "Laptop Ultrabook MSI Elite #662",
+    "precio": 133.43,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 670,
+    "nombre": "Placa Madre ATX Samsung RGB #670",
+    "precio": 346.11,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 690,
+    "nombre": "Hub USB-C 8 en 1 Dell X #690",
+    "precio": 486.2,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 56,
+    "nombre": "Alfombrilla XXL Samsung Plus #56",
+    "precio": 159.44,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 479,
+    "nombre": "Monitor IPS 24\" Samsung Pro #479",
+    "precio": 1075.48,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 421,
+    "nombre": "Parlantes Bluetooth HyperX X #421",
+    "precio": 510.91,
+    "categoria": "Audio"
+  },
+  {
+    "id": 756,
+    "nombre": "Laptop Ultrabook Sony Max #756",
+    "precio": 229.32,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 363,
+    "nombre": "Fuente de Poder 750W MSI Max #363",
+    "precio": 69.0,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 442,
+    "nombre": "Lámpara de Escritorio Sony X #442",
+    "precio": 1377.09,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 675,
+    "nombre": "Alfombrilla XXL Sony Elite #675",
+    "precio": 715.01,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 947,
+    "nombre": "Monitor Curvo 27\" Samsung Ultra #947",
+    "precio": 1248.69,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 97,
+    "nombre": "Micrófono Condensador Dell Lite #97",
+    "precio": 1141.16,
+    "categoria": "Audio"
+  },
+  {
+    "id": 195,
+    "nombre": "Laptop Ultrabook LogiTech Pro #195",
+    "precio": 710.04,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 417,
+    "nombre": "Fuente de Poder 750W Sony X #417",
+    "precio": 927.64,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 710,
+    "nombre": "Soporte Laptop Sony Elite #710",
+    "precio": 1359.92,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 249,
+    "nombre": "Alfombrilla XXL Dell Max #249",
+    "precio": 40.28,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 485,
+    "nombre": "Monitor Ultrawide 34\" Samsung RGB #485",
+    "precio": 332.89,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 591,
+    "nombre": "Micrófono Condensador Asus Elite #591",
+    "precio": 234.49,
+    "categoria": "Audio"
+  },
+  {
+    "id": 585,
+    "nombre": "Mini PC Razer V2 #585",
+    "precio": 1411.06,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 136,
+    "nombre": "Fuente de Poder 750W LogiTech RGB #136",
+    "precio": 918.01,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 754,
+    "nombre": "Soporte Laptop Dell Max #754",
+    "precio": 641.8,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 220,
+    "nombre": "Panel Stream Samsung RGB #220",
+    "precio": 1166.94,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 768,
+    "nombre": "Monitor Portátil 15\" MSI Max #768",
+    "precio": 365.61,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 686,
+    "nombre": "Barra de Sonido Samsung Plus #686",
+    "precio": 193.31,
+    "categoria": "Audio"
+  },
+  {
+    "id": 286,
+    "nombre": "Chromebook Dell Studio #286",
+    "precio": 366.8,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 244,
+    "nombre": "Tarjeta Gráfica LogiTech V2 #244",
+    "precio": 962.76,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 527,
+    "nombre": "Cámara Web 4K LogiTech Plus #527",
+    "precio": 938.74,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 729,
+    "nombre": "Panel Stream Sony Lite #729",
+    "precio": 105.46,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 339,
+    "nombre": "Monitor Curvo 27\" Keychron RGB #339",
+    "precio": 1256.99,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 873,
+    "nombre": "Audífonos Studio HyperX Lite #873",
+    "precio": 755.75,
+    "categoria": "Audio"
+  },
+  {
+    "id": 70,
+    "nombre": "Chromebook Asus Lite #70",
+    "precio": 809.65,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 875,
+    "nombre": "Placa Madre ATX MSI Studio #875",
+    "precio": 952.35,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 61,
+    "nombre": "Cámara Web 4K Keychron Ultra #61",
+    "precio": 867.67,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 647,
+    "nombre": "Control Inalámbrico Sony X #647",
+    "precio": 1081.19,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 725,
+    "nombre": "Monitor 4K 32\" Corsair Ultra #725",
+    "precio": 445.41,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 73,
+    "nombre": "Micrófono Condensador Sony Studio #73",
+    "precio": 14.33,
+    "categoria": "Audio"
+  },
+  {
+    "id": 8,
+    "nombre": "Workstation Asus X #8",
+    "precio": 536.99,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 968,
+    "nombre": "Fuente de Poder 750W Samsung V2 #968",
+    "precio": 861.15,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 735,
+    "nombre": "Cámara Web 4K Razer V2 #735",
+    "precio": 290.72,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 236,
+    "nombre": "Control Inalámbrico LogiTech RGB #236",
+    "precio": 1006.3,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 568,
+    "nombre": "Monitor IPS 24\" Sony Studio #568",
+    "precio": 790.95,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 603,
+    "nombre": "Barra de Sonido Asus X #603",
+    "precio": 548.58,
+    "categoria": "Audio"
+  },
+  {
+    "id": 22,
+    "nombre": "Workstation HyperX Studio #22",
+    "precio": 1430.66,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 347,
+    "nombre": "Fuente de Poder 750W Sony X #347",
+    "precio": 821.59,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 828,
+    "nombre": "Hub USB-C 8 en 1 HyperX Lite #828",
+    "precio": 1182.18,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 231,
+    "nombre": "Panel Stream HyperX X #231",
+    "precio": 767.34,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 254,
+    "nombre": "Monitor Portátil 15\" HyperX Elite #254",
+    "precio": 42.26,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 124,
+    "nombre": "Parlantes Bluetooth Corsair Plus #124",
+    "precio": 1311.52,
+    "categoria": "Audio"
+  },
+  {
+    "id": 463,
+    "nombre": "Tablet Pro LogiTech Ultra #463",
+    "precio": 76.78,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 530,
+    "nombre": "Tarjeta Gráfica Corsair Ultra #530",
+    "precio": 587.68,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 449,
+    "nombre": "Soporte Laptop LogiTech V2 #449",
+    "precio": 567.47,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 832,
+    "nombre": "Mouse Gamer LogiTech Plus #832",
+    "precio": 1124.01,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 972,
+    "nombre": "Monitor 4K 32\" HyperX Studio #972",
+    "precio": 543.36,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 688,
+    "nombre": "Parlantes Bluetooth LogiTech Ultra #688",
+    "precio": 112.53,
+    "categoria": "Audio"
+  },
+  {
+    "id": 845,
+    "nombre": "Workstation Corsair Ultra #845",
+    "precio": 370.8,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 320,
+    "nombre": "Fuente de Poder 750W Keychron Plus #320",
+    "precio": 989.77,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 731,
+    "nombre": "Hub USB-C 8 en 1 Corsair V2 #731",
+    "precio": 166.25,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 206,
+    "nombre": "Mouse Gamer Keychron Ultra #206",
+    "precio": 877.87,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 707,
+    "nombre": "Monitor Portátil 15\" Corsair Pro #707",
+    "precio": 1137.94,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 939,
+    "nombre": "Micrófono Condensador MSI X #939",
+    "precio": 210.51,
+    "categoria": "Audio"
+  },
+  {
+    "id": 785,
+    "nombre": "Chromebook Keychron Plus #785",
+    "precio": 536.22,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 867,
+    "nombre": "Memoria RAM 32GB Dell Lite #867",
+    "precio": 515.76,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 434,
+    "nombre": "Dock Thunderbolt Sony Lite #434",
+    "precio": 968.48,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 622,
+    "nombre": "Control Inalámbrico Corsair Pro #622",
+    "precio": 1247.61,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 541,
+    "nombre": "Monitor Portátil 15\" LogiTech RGB #541",
+    "precio": 1030.81,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 856,
+    "nombre": "Parlantes Bluetooth Razer Pro #856",
+    "precio": 1471.46,
+    "categoria": "Audio"
+  },
+  {
+    "id": 170,
+    "nombre": "Tablet Pro MSI Studio #170",
+    "precio": 724.05,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 563,
+    "nombre": "Fuente de Poder 750W MSI Max #563",
+    "precio": 283.23,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 487,
+    "nombre": "Lámpara de Escritorio Corsair Pro #487",
+    "precio": 212.66,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 676,
+    "nombre": "Control Inalámbrico LogiTech RGB #676",
+    "precio": 1077.48,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 132,
+    "nombre": "Monitor Curvo 27\" MSI Elite #132",
+    "precio": 1416.08,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 129,
+    "nombre": "Interfaz de Audio HyperX Elite #129",
+    "precio": 67.03,
+    "categoria": "Audio"
+  },
+  {
+    "id": 546,
+    "nombre": "Mini PC Asus Elite #546",
+    "precio": 311.97,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 71,
+    "nombre": "Tarjeta Gráfica MSI Lite #71",
+    "precio": 1189.17,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 498,
+    "nombre": "Hub USB-C 8 en 1 HyperX Lite #498",
+    "precio": 1330.06,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 750,
+    "nombre": "Control Inalámbrico Keychron Plus #750",
+    "precio": 481.61,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 88,
+    "nombre": "Monitor 4K 32\" Asus X #88",
+    "precio": 473.39,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 934,
+    "nombre": "Parlantes Bluetooth Corsair Plus #934",
+    "precio": 604.56,
+    "categoria": "Audio"
+  },
+  {
+    "id": 866,
+    "nombre": "Workstation MSI Lite #866",
+    "precio": 1225.32,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 247,
+    "nombre": "Placa Madre ATX Asus Max #247",
+    "precio": 716.42,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 60,
+    "nombre": "Lámpara de Escritorio Asus Lite #60",
+    "precio": 66.49,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 246,
+    "nombre": "Teclado Mecánico Corsair V2 #246",
+    "precio": 974.59,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 315,
+    "nombre": "Monitor Curvo 27\" LogiTech Pro #315",
+    "precio": 437.73,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 372,
+    "nombre": "Interfaz de Audio Corsair Pro #372",
+    "precio": 1294.86,
+    "categoria": "Audio"
+  },
+  {
+    "id": 809,
+    "nombre": "Mini PC Samsung Pro #809",
+    "precio": 83.13,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 20,
+    "nombre": "Fuente de Poder 750W Keychron Plus #20",
+    "precio": 987.73,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 501,
+    "nombre": "Hub USB-C 8 en 1 Corsair V2 #501",
+    "precio": 418.55,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 332,
+    "nombre": "Alfombrilla XXL Razer RGB #332",
+    "precio": 1201.42,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 614,
+    "nombre": "Monitor Curvo 27\" Asus Studio #614",
+    "precio": 662.18,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 1,
+    "nombre": "Interfaz de Audio Dell Studio #1",
+    "precio": 607.23,
+    "categoria": "Audio"
+  },
+  {
+    "id": 544,
+    "nombre": "Workstation Dell Max #544",
+    "precio": 666.33,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 553,
+    "nombre": "Tarjeta Gráfica Asus X #553",
+    "precio": 1435.24,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 166,
+    "nombre": "Cámara Web 4K Asus Elite #166",
+    "precio": 516.49,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 799,
+    "nombre": "Teclado Mecánico Asus Studio #799",
+    "precio": 289.98,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 383,
+    "nombre": "Monitor Curvo 27\" Razer Plus #383",
+    "precio": 1041.8,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 835,
+    "nombre": "Interfaz de Audio Asus Lite #835",
+    "precio": 558.61,
+    "categoria": "Audio"
+  },
+  {
+    "id": 974,
+    "nombre": "Chromebook HyperX Elite #974",
+    "precio": 1198.37,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 895,
+    "nombre": "Disco SSD NVMe 1TB Dell X #895",
+    "precio": 408.88,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 797,
+    "nombre": "Lámpara de Escritorio Corsair Pro #797",
+    "precio": 134.93,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 1000,
+    "nombre": "Alfombrilla XXL Corsair Ultra #1000",
+    "precio": 643.66,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 306,
+    "nombre": "Monitor Ultrawide 34\" HyperX X #306",
+    "precio": 652.74,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 641,
+    "nombre": "Audífonos Studio Sony Max #641",
+    "precio": 1492.71,
+    "categoria": "Audio"
+  },
+  {
+    "id": 109,
+    "nombre": "Tablet Pro Corsair Plus #109",
+    "precio": 280.52,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 520,
+    "nombre": "Memoria RAM 32GB Razer V2 #520",
+    "precio": 449.12,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 183,
+    "nombre": "Hub USB-C 8 en 1 Razer Plus #183",
+    "precio": 164.67,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 781,
+    "nombre": "Panel Stream HyperX X #781",
+    "precio": 499.94,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 513,
+    "nombre": "Monitor 4K 32\" Keychron Pro #513",
+    "precio": 451.91,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 931,
+    "nombre": "Micrófono Condensador Asus Elite #931",
+    "precio": 675.52,
+    "categoria": "Audio"
+  },
+  {
+    "id": 737,
+    "nombre": "Chromebook Corsair Pro #737",
+    "precio": 1079.88,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 740,
+    "nombre": "Tarjeta Gráfica Corsair Ultra #740",
+    "precio": 259.97,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 4,
+    "nombre": "Soporte Laptop Dell Max #4",
+    "precio": 672.54,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 909,
+    "nombre": "Control Inalámbrico HyperX Elite #909",
+    "precio": 677.33,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 162,
+    "nombre": "Monitor 4K 32\" HyperX Studio #162",
+    "precio": 1093.5,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 446,
+    "nombre": "Barra de Sonido Samsung Plus #446",
+    "precio": 1368.47,
+    "categoria": "Audio"
+  },
+  {
+    "id": 932,
+    "nombre": "Tablet Pro Asus Max #932",
+    "precio": 926.9,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 999,
+    "nombre": "Tarjeta Gráfica Dell Max #999",
+    "precio": 659.19,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 956,
+    "nombre": "Hub USB-C 8 en 1 Sony Max #956",
+    "precio": 963.53,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 657,
+    "nombre": "Alfombrilla XXL HyperX Studio #657",
+    "precio": 1189.72,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 788,
+    "nombre": "Monitor Ultrawide 34\" Dell Elite #788",
+    "precio": 97.35,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 900,
+    "nombre": "Barra de Sonido Corsair Ultra #900",
+    "precio": 1010.72,
+    "categoria": "Audio"
+  },
+  {
+    "id": 769,
+    "nombre": "Workstation LogiTech V2 #769",
+    "precio": 616.44,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 937,
+    "nombre": "Memoria RAM 32GB Dell Lite #937",
+    "precio": 775.47,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 699,
+    "nombre": "Dock Thunderbolt Corsair Plus #699",
+    "precio": 1127.85,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 118,
+    "nombre": "Panel Stream LogiTech Ultra #118",
+    "precio": 250.06,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 739,
+    "nombre": "Monitor IPS 24\" Samsung Pro #739",
+    "precio": 58.34,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 831,
+    "nombre": "Parlantes Bluetooth HyperX X #831",
+    "precio": 1274.82,
+    "categoria": "Audio"
+  },
+  {
+    "id": 12,
+    "nombre": "Mini PC Dell Lite #12",
+    "precio": 1021.0,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 567,
+    "nombre": "Tarjeta Gráfica HyperX Studio #567",
+    "precio": 664.0,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 258,
+    "nombre": "Dock Thunderbolt Dell Elite #258",
+    "precio": 199.83,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 542,
+    "nombre": "Panel Stream Keychron V2 #542",
+    "precio": 363.16,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 480,
+    "nombre": "Monitor Portátil 15\" Asus Lite #480",
+    "precio": 972.0,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 964,
+    "nombre": "Interfaz de Audio Razer Ultra #964",
+    "precio": 550.88,
+    "categoria": "Audio"
+  },
+  {
+    "id": 391,
+    "nombre": "Mini PC Keychron Ultra #391",
+    "precio": 1424.81,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 395,
+    "nombre": "Memoria RAM 32GB HyperX Max #395",
+    "precio": 60.19,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 66,
+    "nombre": "Lámpara de Escritorio Dell Studio #66",
+    "precio": 240.32,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 611,
+    "nombre": "Panel Stream HyperX X #611",
+    "precio": 681.48,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 957,
+    "nombre": "Monitor IPS 24\" LogiTech Plus #957",
+    "precio": 564.0,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 697,
+    "nombre": "Barra de Sonido HyperX Studio #697",
+    "precio": 672.58,
+    "categoria": "Audio"
+  },
+  {
+    "id": 812,
+    "nombre": "Chromebook Sony X #812",
+    "precio": 126.41,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 959,
+    "nombre": "Memoria RAM 32GB MSI X #959",
+    "precio": 216.89,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 643,
+    "nombre": "Cámara Web 4K Corsair RGB #643",
+    "precio": 558.02,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 157,
+    "nombre": "Mouse Gamer Dell Lite #157",
+    "precio": 479.81,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 113,
+    "nombre": "Monitor Portátil 15\" Samsung V2 #113",
+    "precio": 426.69,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 49,
+    "nombre": "Audífonos Studio Asus Studio #49",
+    "precio": 1441.25,
+    "categoria": "Audio"
+  },
+  {
+    "id": 774,
+    "nombre": "Mini PC MSI X #774",
+    "precio": 50.56,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 94,
+    "nombre": "Tarjeta Gráfica LogiTech V2 #94",
+    "precio": 288.84,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 506,
+    "nombre": "Hub USB-C 8 en 1 Sony Max #506",
+    "precio": 782.4,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 522,
+    "nombre": "Alfombrilla XXL Razer RGB #522",
+    "precio": 1371.35,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 142,
+    "nombre": "Monitor Portátil 15\" Sony X #142",
+    "precio": 187.23,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 882,
+    "nombre": "Parlantes Bluetooth Keychron V2 #882",
+    "precio": 1165.15,
+    "categoria": "Audio"
+  },
+  {
+    "id": 926,
+    "nombre": "Tablet Pro HyperX X #926",
+    "precio": 1059.61,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 409,
+    "nombre": "Fuente de Poder 750W HyperX Elite #409",
+    "precio": 331.28,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 598,
+    "nombre": "Lámpara de Escritorio MSI Max #598",
+    "precio": 922.47,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 439,
+    "nombre": "Teclado Mecánico Asus Studio #439",
+    "precio": 1044.64,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 599,
+    "nombre": "Monitor IPS 24\" Samsung Pro #599",
+    "precio": 1497.96,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 765,
+    "nombre": "Interfaz de Audio Asus Lite #765",
+    "precio": 309.87,
+    "categoria": "Audio"
+  },
+  {
+    "id": 270,
+    "nombre": "Tablet Pro MSI Studio #270",
+    "precio": 213.96,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 552,
+    "nombre": "Tarjeta Gráfica Razer RGB #552",
+    "precio": 122.19,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 975,
+    "nombre": "Cámara Web 4K Razer V2 #975",
+    "precio": 268.91,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 763,
+    "nombre": "Teclado Mecánico HyperX Lite #763",
+    "precio": 1073.49,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 253,
+    "nombre": "Monitor IPS 24\" Corsair RGB #253",
+    "precio": 1495.93,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 993,
+    "nombre": "Barra de Sonido Asus X #993",
+    "precio": 1218.04,
+    "categoria": "Audio"
+  },
+  {
+    "id": 272,
+    "nombre": "Workstation HyperX Studio #272",
+    "precio": 1451.73,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 147,
+    "nombre": "Fuente de Poder 750W Sony X #147",
+    "precio": 1480.02,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 470,
+    "nombre": "Soporte Laptop Sony Elite #470",
+    "precio": 1005.75,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 659,
+    "nombre": "Alfombrilla XXL Dell Max #659",
+    "precio": 1067.8,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 406,
+    "nombre": "Monitor Curvo 27\" Sony Max #406",
+    "precio": 830.4,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 512,
+    "nombre": "Barra de Sonido Razer RGB #512",
+    "precio": 444.06,
+    "categoria": "Audio"
+  },
+  {
+    "id": 672,
+    "nombre": "Chromebook Sony X #672",
+    "precio": 458.34,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 218,
+    "nombre": "Disco SSD NVMe 1TB Razer Plus #218",
+    "precio": 246.37,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 323,
+    "nombre": "Cámara Web 4K Corsair RGB #323",
+    "precio": 1067.83,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 736,
+    "nombre": "Teclado Mecánico Corsair V2 #736",
+    "precio": 1053.93,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 581,
+    "nombre": "Monitor IPS 24\" Keychron Ultra #581",
+    "precio": 271.05,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 217,
+    "nombre": "Interfaz de Audio Sony X #217",
+    "precio": 549.9,
+    "categoria": "Audio"
+  },
+  {
+    "id": 68,
+    "nombre": "Laptop Ultrabook HyperX Lite #68",
+    "precio": 345.67,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 275,
+    "nombre": "Fuente de Poder 750W Asus Lite #275",
+    "precio": 1477.88,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 411,
+    "nombre": "Hub USB-C 8 en 1 Corsair V2 #411",
+    "precio": 1190.59,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 324,
+    "nombre": "Panel Stream Corsair Plus #324",
+    "precio": 364.26,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 825,
+    "nombre": "Monitor IPS 24\" Razer V2 #825",
+    "precio": 747.1,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 983,
+    "nombre": "Audífonos Studio HyperX Lite #983",
+    "precio": 549.01,
+    "categoria": "Audio"
+  },
+  {
+    "id": 842,
+    "nombre": "Laptop Ultrabook MSI Elite #842",
+    "precio": 863.55,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 235,
+    "nombre": "Placa Madre ATX MSI Studio #235",
+    "precio": 707.5,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 58,
+    "nombre": "Lámpara de Escritorio MSI Max #58",
+    "precio": 1474.72,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 795,
+    "nombre": "Mouse Gamer HyperX Max #795",
+    "precio": 205.1,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 787,
+    "nombre": "Monitor Ultrawide 34\" Keychron V2 #787",
+    "precio": 1327.76,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 864,
+    "nombre": "Barra de Sonido LogiTech V2 #864",
+    "precio": 109.83,
+    "categoria": "Audio"
+  },
+  {
+    "id": 333,
+    "nombre": "Workstation Keychron Pro #333",
+    "precio": 604.46,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 702,
+    "nombre": "Tarjeta Gráfica Razer RGB #702",
+    "precio": 1078.8,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 225,
+    "nombre": "Cámara Web 4K Razer V2 #225",
+    "precio": 724.25,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 571,
+    "nombre": "Control Inalámbrico Dell Studio #571",
+    "precio": 623.26,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 705,
+    "nombre": "Monitor Portátil 15\" Keychron Plus #705",
+    "precio": 621.24,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 656,
+    "nombre": "Audífonos Studio Corsair V2 #656",
+    "precio": 867.45,
+    "categoria": "Audio"
+  },
+  {
+    "id": 277,
+    "nombre": "Workstation Razer RGB #277",
+    "precio": 198.49,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 389,
+    "nombre": "Disco SSD NVMe 1TB Asus Studio #389",
+    "precio": 483.74,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 474,
+    "nombre": "Cámara Web 4K MSI X #474",
+    "precio": 122.36,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 168,
+    "nombre": "Mouse Gamer Corsair RGB #168",
+    "precio": 705.16,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 995,
+    "nombre": "Monitor Ultrawide 34\" Samsung RGB #995",
+    "precio": 781.83,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 747,
+    "nombre": "Barra de Sonido HyperX Studio #747",
+    "precio": 202.96,
+    "categoria": "Audio"
+  },
+  {
+    "id": 547,
+    "nombre": "Chromebook Corsair Pro #547",
+    "precio": 1245.63,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 176,
+    "nombre": "Fuente de Poder 750W LogiTech RGB #176",
+    "precio": 832.34,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 908,
+    "nombre": "Cámara Web 4K Sony Studio #908",
+    "precio": 886.63,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 624,
+    "nombre": "Control Inalámbrico Razer Ultra #624",
+    "precio": 1154.46,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 74,
+    "nombre": "Monitor Ultrawide 34\" Sony Lite #74",
+    "precio": 204.0,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 664,
+    "nombre": "Audífonos Studio Keychron RGB #664",
+    "precio": 760.26,
+    "categoria": "Audio"
+  },
+  {
+    "id": 700,
+    "nombre": "Workstation Sony Elite #700",
+    "precio": 1303.9,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 971,
+    "nombre": "Placa Madre ATX HyperX X #971",
+    "precio": 1249.11,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 274,
+    "nombre": "Lámpara de Escritorio HyperX Elite #274",
+    "precio": 782.94,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 687,
+    "nombre": "Alfombrilla XXL HyperX Studio #687",
+    "precio": 464.54,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 215,
+    "nombre": "Monitor IPS 24\" Razer V2 #215",
+    "precio": 253.01,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 364,
+    "nombre": "Micrófono Condensador Samsung Pro #364",
+    "precio": 1402.89,
+    "categoria": "Audio"
+  },
+  {
+    "id": 380,
+    "nombre": "Chromebook Asus Lite #380",
+    "precio": 347.5,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 167,
+    "nombre": "Memoria RAM 32GB Dell Lite #167",
+    "precio": 1421.85,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 374,
+    "nombre": "Dock Thunderbolt Sony Lite #374",
+    "precio": 784.12,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 855,
+    "nombre": "Mouse Gamer HyperX Max #855",
+    "precio": 434.66,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 651,
+    "nombre": "Monitor Portátil 15\" LogiTech RGB #651",
+    "precio": 129.34,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 465,
+    "nombre": "Interfaz de Audio Asus Lite #465",
+    "precio": 304.1,
+    "categoria": "Audio"
+  },
+  {
+    "id": 955,
+    "nombre": "Tablet Pro Samsung RGB #955",
+    "precio": 1435.05,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 948,
+    "nombre": "Fuente de Poder 750W Samsung V2 #948",
+    "precio": 420.38,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 104,
+    "nombre": "Hub USB-C 8 en 1 Asus Studio #104",
+    "precio": 942.03,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 888,
+    "nombre": "Teclado Mecánico Razer Plus #888",
+    "precio": 926.27,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 979,
+    "nombre": "Monitor 4K 32\" LogiTech V2 #979",
+    "precio": 151.02,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 876,
+    "nombre": "Audífonos Studio Corsair V2 #876",
+    "precio": 965.79,
+    "categoria": "Audio"
+  },
+  {
+    "id": 82,
+    "nombre": "Workstation HyperX Studio #82",
+    "precio": 892.61,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 297,
+    "nombre": "Fuente de Poder 750W Sony X #297",
+    "precio": 876.0,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 792,
+    "nombre": "Dock Thunderbolt Asus Max #792",
+    "precio": 266.75,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 234,
+    "nombre": "Alfombrilla XXL LogiTech V2 #234",
+    "precio": 941.23,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 678,
+    "nombre": "Monitor 4K 32\" Asus X #678",
+    "precio": 1354.18,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 47,
+    "nombre": "Barra de Sonido HyperX Studio #47",
+    "precio": 514.38,
+    "categoria": "Audio"
+  },
+  {
+    "id": 72,
+    "nombre": "Chromebook Sony X #72",
+    "precio": 1386.81,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 722,
+    "nombre": "Placa Madre ATX Keychron V2 #722",
+    "precio": 73.3,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 197,
+    "nombre": "Hub USB-C 8 en 1 Samsung Ultra #197",
+    "precio": 1297.31,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 592,
+    "nombre": "Mouse Gamer LogiTech Plus #592",
+    "precio": 132.86,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 371,
+    "nombre": "Monitor IPS 24\" Keychron Ultra #371",
+    "precio": 1423.44,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 883,
+    "nombre": "Parlantes Bluetooth Dell Elite #883",
+    "precio": 1159.28,
+    "categoria": "Audio"
+  },
+  {
+    "id": 907,
+    "nombre": "Tablet Pro Keychron V2 #907",
+    "precio": 405.81,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 634,
+    "nombre": "Tarjeta Gráfica LogiTech V2 #634",
+    "precio": 325.68,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 644,
+    "nombre": "Lámpara de Escritorio HyperX Elite #644",
+    "precio": 863.34,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 850,
+    "nombre": "Teclado Mecánico LogiTech Pro #850",
+    "precio": 931.75,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 301,
+    "nombre": "Monitor 4K 32\" Samsung Plus #301",
+    "precio": 57.07,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 566,
+    "nombre": "Interfaz de Audio LogiTech RGB #566",
+    "precio": 1334.83,
+    "categoria": "Audio"
+  },
+  {
+    "id": 81,
+    "nombre": "Tablet Pro Razer Pro #81",
+    "precio": 823.82,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 388,
+    "nombre": "Tarjeta Gráfica Keychron Pro #388",
+    "precio": 967.16,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 128,
+    "nombre": "Lámpara de Escritorio MSI Max #128",
+    "precio": 461.52,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 550,
+    "nombre": "Mouse Gamer Razer V2 #550",
+    "precio": 376.38,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 471,
+    "nombre": "Monitor Portátil 15\" LogiTech RGB #471",
+    "precio": 1213.34,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 748,
+    "nombre": "Micrófono Condensador Corsair RGB #748",
+    "precio": 616.27,
+    "categoria": "Audio"
+  },
+  {
+    "id": 45,
+    "nombre": "Tablet Pro Samsung RGB #45",
+    "precio": 686.87,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 827,
+    "nombre": "Tarjeta Gráfica HyperX Studio #827",
+    "precio": 1036.66,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 271,
+    "nombre": "Soporte Laptop Samsung Plus #271",
+    "precio": 247.22,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 619,
+    "nombre": "Mouse Gamer MSI X #619",
+    "precio": 630.45,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 353,
+    "nombre": "Monitor IPS 24\" Corsair RGB #353",
+    "precio": 703.09,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 868,
+    "nombre": "Barra de Sonido Keychron Pro #868",
+    "precio": 518.21,
+    "categoria": "Audio"
+  },
+  {
+    "id": 368,
+    "nombre": "Chromebook MSI Max #368",
+    "precio": 225.78,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 100,
+    "nombre": "Memoria RAM 32GB Razer V2 #100",
+    "precio": 1293.89,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 390,
+    "nombre": "Soporte Laptop Sony Elite #390",
+    "precio": 487.14,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 95,
+    "nombre": "Control Inalámbrico Asus Lite #95",
+    "precio": 1482.18,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 991,
+    "nombre": "Monitor Curvo 27\" Corsair V2 #991",
+    "precio": 525.91,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 345,
+    "nombre": "Audífonos Studio Dell X #345",
+    "precio": 605.29,
+    "categoria": "Audio"
+  },
+  {
+    "id": 782,
+    "nombre": "Chromebook Sony X #782",
+    "precio": 1143.87,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 221,
+    "nombre": "Fuente de Poder 750W Dell Studio #221",
+    "precio": 778.29,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 160,
+    "nombre": "Lámpara de Escritorio Asus Lite #160",
+    "precio": 170.0,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 965,
+    "nombre": "Panel Stream MSI Studio #965",
+    "precio": 371.71,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 349,
+    "nombre": "Monitor Ultrawide 34\" Corsair Plus #349",
+    "precio": 194.31,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 984,
+    "nombre": "Audífonos Studio Keychron RGB #984",
+    "precio": 681.0,
+    "categoria": "Audio"
+  },
+  {
+    "id": 715,
+    "nombre": "Workstation Corsair Ultra #715",
+    "precio": 221.63,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 164,
+    "nombre": "Tarjeta Gráfica LogiTech V2 #164",
+    "precio": 87.3,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 826,
+    "nombre": "Hub USB-C 8 en 1 Sony Max #826",
+    "precio": 1418.73,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 778,
+    "nombre": "Control Inalámbrico Samsung V2 #778",
+    "precio": 1297.88,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 7,
+    "nombre": "Monitor Portátil 15\" Corsair Pro #7",
+    "precio": 634.18,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 891,
+    "nombre": "Interfaz de Audio Dell Studio #891",
+    "precio": 1444.48,
+    "categoria": "Audio"
+  },
+  {
+    "id": 829,
+    "nombre": "Workstation LogiTech V2 #829",
+    "precio": 1354.64,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 285,
+    "nombre": "Placa Madre ATX MSI Studio #285",
+    "precio": 1222.46,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 604,
+    "nombre": "Dock Thunderbolt Sony Lite #604",
+    "precio": 1401.42,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 460,
+    "nombre": "Mouse Gamer Razer V2 #460",
+    "precio": 1085.04,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 226,
+    "nombre": "Monitor Portátil 15\" Dell Studio #226",
+    "precio": 294.47,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 430,
+    "nombre": "Interfaz de Audio Keychron Plus #430",
+    "precio": 249.1,
+    "categoria": "Audio"
+  },
+  {
+    "id": 987,
+    "nombre": "Mini PC LogiTech Plus #987",
+    "precio": 1494.0,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 719,
+    "nombre": "Placa Madre ATX Sony Lite #719",
+    "precio": 706.62,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 666,
+    "nombre": "Soporte Laptop MSI Lite #666",
+    "precio": 1320.06,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 734,
+    "nombre": "Mouse Gamer Samsung Pro #734",
+    "precio": 752.09,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 204,
+    "nombre": "Monitor 4K 32\" Dell Max #204",
+    "precio": 145.99,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 575,
+    "nombre": "Parlantes Bluetooth MSI Studio #575",
+    "precio": 597.14,
+    "categoria": "Audio"
+  },
+  {
+    "id": 28,
+    "nombre": "Chromebook MSI Max #28",
+    "precio": 692.36,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 617,
+    "nombre": "Fuente de Poder 750W Sony X #617",
+    "precio": 370.2,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 518,
+    "nombre": "Hub USB-C 8 en 1 HyperX Lite #518",
+    "precio": 880.02,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 239,
+    "nombre": "Alfombrilla XXL Dell Max #239",
+    "precio": 84.4,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 224,
+    "nombre": "Monitor Portátil 15\" HyperX Elite #224",
+    "precio": 430.66,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 96,
+    "nombre": "Micrófono Condensador Keychron Ultra #96",
+    "precio": 901.11,
+    "categoria": "Audio"
+  },
+  {
+    "id": 31,
+    "nombre": "Workstation Samsung Plus #31",
+    "precio": 1266.16,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 33,
+    "nombre": "Disco SSD NVMe 1TB HyperX Lite #33",
+    "precio": 1012.71,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 433,
+    "nombre": "Cámara Web 4K Corsair RGB #433",
+    "precio": 437.19,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 605,
+    "nombre": "Panel Stream MSI Studio #605",
+    "precio": 24.17,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 90,
+    "nombre": "Monitor Curvo 27\" Dell X #90",
+    "precio": 171.96,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 559,
+    "nombre": "Audífonos Studio Asus Studio #559",
+    "precio": 211.3,
+    "categoria": "Audio"
+  },
+  {
+    "id": 914,
+    "nombre": "Mini PC MSI X #914",
+    "precio": 405.54,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 759,
+    "nombre": "Tarjeta Gráfica Dell Max #759",
+    "precio": 556.28,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 693,
+    "nombre": "Soporte Laptop Keychron Pro #693",
+    "precio": 612.04,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 105,
+    "nombre": "Teclado Mecánico Dell X #105",
+    "precio": 79.32,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 755,
+    "nombre": "Monitor IPS 24\" Razer V2 #755",
+    "precio": 88.12,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 143,
+    "nombre": "Audífonos Studio HyperX Lite #143",
+    "precio": 847.98,
+    "categoria": "Audio"
+  },
+  {
+    "id": 229,
+    "nombre": "Workstation LogiTech V2 #229",
+    "precio": 551.44,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 251,
+    "nombre": "Disco SSD NVMe 1TB Sony Max #251",
+    "precio": 441.44,
+    "categoria": "Componentes"
+  },
+  {
+    "id": 282,
+    "nombre": "Soporte Laptop HyperX Studio #282",
+    "precio": 586.89,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 760,
+    "nombre": "Mouse Gamer Razer V2 #760",
+    "precio": 682.13,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 26,
+    "nombre": "Monitor Portátil 15\" Dell Studio #26",
+    "precio": 830.19,
+    "categoria": "Monitores"
+  },
+  {
+    "id": 115,
+    "nombre": "Interfaz de Audio Asus Lite #115",
+    "precio": 1240.06,
+    "categoria": "Audio"
+  },
+  {
+    "id": 655,
+    "nombre": "Tablet Pro Samsung RGB #655",
+    "precio": 939.38,
+    "categoria": "Computadoras"
+  }
+]
